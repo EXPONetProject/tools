@@ -1,0 +1,728 @@
+id_c3lab,role,name,id_publicwhip,constituency,party,screen_name,screen_name_cand,screen_name_list,brexit,leave_%
+1,mp,Stephen Kinnock,uk.org.publicwhip/person/25297,Aberavon,Labour,skinnock,skinnock,skinnock,Remain,63.06
+2,mp,Guto Bebb,uk.org.publicwhip/person/24736,Aberconwy,Conservative,gutobebb,gutobebb,gutobebb,Remain,50.54
+3,mp,Kirsty Blackman,uk.org.publicwhip/person/25314,Aberdeen North,Scottish National Party,kirstysnp,abdnnorthkirsty,"kirstysnp,abdnnorthkirsty",Remain,#N/A
+4,mp,Callum McCaig,uk.org.publicwhip/person/25400,Aberdeen South,Scottish National Party,callum_mccaig,callum_mccaig,callum_mccaig,Remain,#N/A
+5,mp,Neil Gray,uk.org.publicwhip/person/25293,Airdrie and Shotts,Scottish National Party,neilgraymp,neilgray3,"neilgraymp,neilgray3",Remain,#N/A
+6,mp,Gerald Howarth,uk.org.publicwhip/person/10293,Aldershot,Conservative,geraldhowarth,geraldhowarth,geraldhowarth,Leave,56.97
+7,mp,Wendy Morton,uk.org.publicwhip/person/25342,Aldridge-Brownhills,Conservative,morton_wendy,morton_wendy,morton_wendy,Remain,66.34
+8,mp,Graham Brady,uk.org.publicwhip/person/10062,Altrincham and Sale West,Conservative,,graham__brady,graham__brady,Leave,41.84
+9,mp,Mark Tami,uk.org.publicwhip/person/11267,Alyn and Deeside,Labour,marktamimp,marktamimp,marktamimp,Remain,60.02
+10,mp,Nigel Mills,uk.org.publicwhip/person/24965,Amber Valley,Conservative,nigelmillsmp,votenigelmills,"nigelmillsmp,votenigelmills",Leave,67.23
+11,mp,Mike Weir,uk.org.publicwhip/person/11312,Angus,Scottish National Party,mikeweirsnp,mikeweirsnp,mikeweirsnp,Remain,#N/A
+12,mp,Hywel Williams,uk.org.publicwhip/person/11323,Arfon,Plaid Cymru,hywelplaidcymru,hywelwilliamsmp,"hywelplaidcymru,hywelwilliamsmp",Remain,43.04
+13,mp,Brendan O'Hara,uk.org.publicwhip/person/25370,Argyll and Bute,Scottish National Party,brendanoharasnp,brendanoharasnp,brendanoharasnp,Remain,39
+14,mp,Nick Herbert,uk.org.publicwhip/person/11377,Arundel and South Downs,Conservative,nickherbertmp,nickherbertmp,nickherbertmp,Remain,52.29
+15,mp,Gloria De Piero,uk.org.publicwhip/person/24811,Ashfield,Labour,gloriadepiero,gloriadepiero,gloriadepiero,Remain,70.45
+16,mp,Damian Green,uk.org.publicwhip/person/10241,Ashford,Conservative,damiangreenmp,damiangreenmp,damiangreenmp,Remain,59.52
+17,mp,Angela Rayner,uk.org.publicwhip/person/25429,Ashton-under-Lyne,Labour,angelarayner,angelarayner,angelarayner,Remain,65.48
+18,mp,David Lidington,uk.org.publicwhip/person/10361,Aylesbury,Conservative,dlidington,dlidington,dlidington,Remain,51.43
+19,mp,Corri Wilson,uk.org.publicwhip/person/25401,"Ayr, Carrick and Cumnock",Scottish National Party,corriwilsonsnp,,corriwilsonsnp,Remain,#N/A
+20,mp,Victoria Prentis,uk.org.publicwhip/person/25420,Banbury,Conservative,victoriaprentis,victoriaprentis,victoriaprentis,Remain,54.33
+21,mp,Eilidh Whiteford,uk.org.publicwhip/person/24812,Banff and Buchan,Scottish National Party,eilidhwhiteford,eilidhwhiteford,eilidhwhiteford,Remain,#N/A
+22,mp,Margaret Hodge,uk.org.publicwhip/person/10281,Barking,Labour,margarethodge,margarethodge,margarethodge,Remain,55.16
+23,mp,Dan Jarvis,uk.org.publicwhip/person/25067,Barnsley Central,Labour,danjarvismp,dan4barnsley,"danjarvismp,dan4barnsley",Remain,66.01
+24,mp,Michael Dugher,uk.org.publicwhip/person/24762,Barnsley East,Labour,michaeldugher,michaeldugher,michaeldugher,Remain,69.52
+25,mp,John Woodcock,uk.org.publicwhip/person/24837,Barrow and Furness,Labour,jwoodcockmp,jwoodcockmp,jwoodcockmp,Remain,60.32
+27,mp,John Baron,uk.org.publicwhip/person/10715,Basildon and Billericay,Conservative,,,,Leave,62.74
+28,mp,Maria Miller,uk.org.publicwhip/person/11389,Basingstoke,Conservative,maria_millermp,maria_millermp,maria_millermp,Remain,54.73
+29,mp,John Mann,uk.org.publicwhip/person/11093,Bassetlaw,Labour,johnmannmp,johnmannmp,johnmannmp,Leave,64.73
+30,mp,Ben Howlett,uk.org.publicwhip/person/25334,Bath,Conservative,ben4bath,ben4bath,ben4bath,Remain,33.58
+31,mp,Jo Cox,uk.org.publicwhip/person/25394,Batley and Spen,Labour,jo_cox1,jo_cox1,jo_cox1,Remain,63.19
+32,mp,Jane Ellison,uk.org.publicwhip/person/24719,Battersea,Conservative,janeellison,janeellison,janeellison,Remain,19.32
+33,mp,Dominic Grieve,uk.org.publicwhip/person/10243,Beaconsfield,Conservative,,,,Remain,47.84
+34,mp,Bob Stewart,uk.org.publicwhip/person/24907,Beckenham,Conservative,,,,Leave,48.98
+35,mp,Richard Fuller,uk.org.publicwhip/person/24787,Bedford,Conservative,,,,Remain,53.17
+36,mp,Gavin Robinson,uk.org.publicwhip/person/25280,Belfast East,Democratic Unionist Party,grobinsondup,,grobinsondup,Leave,51.94
+37,mp,Nigel Dodds,uk.org.publicwhip/person/10857,Belfast North,Democratic Unionist Party,nigeldoddsdup,,nigeldoddsdup,Leave,49.64
+38,mp,Alasdair McDonnell,uk.org.publicwhip/person/11402,Belfast South,Social Democratic and Labour Party,alasdairmcd_mp,,alasdairmcd_mp,Remain,30.51
+39,mp,Paul Maskey,uk.org.publicwhip/person/13904,Belfast West,Sinn Fein,paulmaskeymp,,paulmaskeymp,Remain,25.94
+40,mp,Neil Coyle,uk.org.publicwhip/person/25326,Bermondsey and Old Southwark,Labour,coyleneil,coyleneil,coyleneil,Remain,32.27
+42,mp,Calum Kerr,uk.org.publicwhip/person/25416,"Berwickshire, Roxburgh and Selkirk",Scottish National Party,calumkerrsnp,,calumkerrsnp,Remain,#N/A
+41,mp,Mrs Anne-Marie Trevelyan,uk.org.publicwhip/person/25439,Berwick-upon-Tweed,Conservative,annietrev,annietrev,annietrev,Leave,59.08
+43,mp,Rushanara Ali,uk.org.publicwhip/person/24958,Bethnal Green and Bow,Labour,rushanaraali,rushanaraali,rushanaraali,Remain,31.77
+44,mp,Graham Stuart,uk.org.publicwhip/person/11406,Beverley and Holderness,Conservative,grahamstuart,grahamstuart,grahamstuart,Remain,57.15
+45,mp,Huw Merriman,uk.org.publicwhip/person/25426,Bexhill and Battle,Conservative,huwmerriman,huwmerriman,huwmerriman,Unknown,57.63
+46,mp,David Evennett,uk.org.publicwhip/person/11408,Bexleyheath and Crayford,Conservative,davidevennett,davidevennett,davidevennett,Remain,65.06
+47,mp,Frank Field,uk.org.publicwhip/person/10197,Birkenhead,Labour,frankfieldteam,frankfieldteam,frankfieldteam,Leave,57.44
+48,mp,Gisela Stuart,uk.org.publicwhip/person/10577,"Birmingham, Edgbaston",Labour,giselastuart,,giselastuart,Leave,46.17
+49,mp,Jack Dromey,uk.org.publicwhip/person/24825,"Birmingham, Erdington",Labour,jackdromeymp,,jackdromeymp,Remain,61.63
+50,mp,Roger Godsiff,uk.org.publicwhip/person/10231,"Birmingham, Hall Green",Labour,rogergodsiff,,rogergodsiff,Leave,46.44
+51,mp,Liam Byrne,uk.org.publicwhip/person/11360,"Birmingham, Hodge Hill",Labour,liambyrnemp,,liambyrnemp,Remain,60.65
+52,mp,Shabana Mahmood,uk.org.publicwhip/person/24788,"Birmingham, Ladywood",Labour,shabanamahmood,,shabanamahmood,Remain,44.76
+53,mp,Richard Burden,uk.org.publicwhip/person/10076,"Birmingham, Northfield",Labour,richardburdenmp,,richardburdenmp,Remain,60.93
+54,mp,Khalid Mahmood,uk.org.publicwhip/person/11087,"Birmingham, Perry Barr",Labour,khalid4pb,,khalid4pb,Remain,56.87
+55,mp,Steve McCabe,uk.org.publicwhip/person/10377,"Birmingham, Selly Oak",Labour,steve_mccabe,,steve_mccabe,Remain,46.91
+56,mp,Jess Phillips,uk.org.publicwhip/person/25364,"Birmingham, Yardley",Labour,jessphillips,,jessphillips,Remain,63.89
+57,mp,Helen Goodman,uk.org.publicwhip/person/11421,Bishop Auckland,Labour,helengoodmanmp,helengoodmanmp,helengoodmanmp,Remain,63.28
+58,mp,Kate Hollern,uk.org.publicwhip/person/25298,Blackburn,Labour,,cllrkate,cllrkate,Remain,58.46
+59,mp,Graham Stringer,uk.org.publicwhip/person/10576,Blackley and Broughton,Labour,,gstringermp,gstringermp,Leave,53.18
+60,mp,Paul Maynard,uk.org.publicwhip/person/24764,Blackpool North and Cleveleys,Conservative,paulmaynardmp,paulmaynardbnc,"paulmaynardmp,paulmaynardbnc",Leave,64.73
+61,mp,Gordon Marsden,uk.org.publicwhip/person/10415,Blackpool South,Labour,gordonmarsden,gordonmarsden,gordonmarsden,Remain,66
+62,mp,Nick Smith,uk.org.publicwhip/person/24728,Blaenau Gwent,Labour,blaenaugwentmp,nicksmith4bg,"blaenaugwentmp,nicksmith4bg",Remain,61.45
+63,mp,David Anderson,uk.org.publicwhip/person/11427,Blaydon,Labour,daveandersonmp,daveandersonmp,daveandersonmp,Remain,61.24
+64,mp,Ronnie Campbell,uk.org.publicwhip/person/10089,Blyth Valley,Labour,,bvlabour,bvlabour,Leave,63.87
+65,mp,Nick Gibb,uk.org.publicwhip/person/10225,Bognor Regis and Littlehampton,Conservative,nickgibbmp,,nickgibbmp,Remain,63.38
+66,mp,Dennis Skinner,uk.org.publicwhip/person/10544,Bolsover,Labour,,,,Leave,69.17
+67,mp,David Crausby,uk.org.publicwhip/person/10141,Bolton North East,Labour,davidcrausby,davidcrausby,davidcrausby,Remain,55.34
+68,mp,Yasmin Qureshi,uk.org.publicwhip/person/24775,Bolton South East,Labour,yasminqureshimp,yasminqureshimp,yasminqureshimp,Remain,61.15
+69,mp,Chris Green,uk.org.publicwhip/person/25359,Bolton West,Conservative,chrisgreenmp,chris11green,"chrisgreenmp,chris11green",Leave,53.32
+70,mp,Peter Dowd,uk.org.publicwhip/person/25309,Bootle,Labour,peter_dowd,peter_dowd,peter_dowd,Remain,59.72
+71,mp,Matt Warman,uk.org.publicwhip/person/25395,Boston and Skegness,Conservative,mattwarman,mattwarman,mattwarman,Remain,71.05
+72,mp,David Tredinnick,uk.org.publicwhip/person/10602,Bosworth,Conservative,,,,Remain,62.51
+73,mp,Tobias Ellwood,uk.org.publicwhip/person/11437,Bournemouth East,Conservative,tobias_ellwood,tobiasellwoodmp,"tobias_ellwood,tobiasellwoodmp",Remain,49.44
+74,mp,Conor Burns,uk.org.publicwhip/person/24780,Bournemouth West,Conservative,conorburns_mp,conor_burns2015,"conorburns_mp,conor_burns2015",Leave,54.08
+75,mp,Phillip Lee,uk.org.publicwhip/person/24765,Bracknell,Conservative,drphillipleemp,drphillipleemp,drphillipleemp,Remain,52.84
+76,mp,Imran Hussain,uk.org.publicwhip/person/25375,Bradford East,Labour,imran_hussainmp,,imran_hussainmp,Remain,60.78
+77,mp,Judith Cummins,uk.org.publicwhip/person/25393,Bradford South,Labour,judithcummins,judithcummins,judithcummins,Remain,65.09
+78,mp,Naz Shah,uk.org.publicwhip/person/25385,Bradford West,Independent,nazshahbfd,,nazshahbfd,Remain,52.98
+79,mp,James Cleverly,uk.org.publicwhip/person/25376,Braintree,Conservative,jamescleverly,jamescleverly,jamescleverly,Leave,61.45
+80,mp,Christopher Davies,uk.org.publicwhip/person/25282,Brecon and Radnorshire,Conservative,chrisdavies_mp,chrisdavies4mp,"chrisdavies_mp,chrisdavies4mp",Leave,50.36
+81,mp,Dawn Butler,uk.org.publicwhip/person/11447,Brent Central,Labour,dawnbutlerbrent,dawnbutlerbrent,dawnbutlerbrent,Remain,46.57
+82,mp,Barry Gardiner,uk.org.publicwhip/person/10220,Brent North,Labour,barrygardiner,barrygardiner,barrygardiner,Remain,45.85
+83,mp,Ruth Cadbury,uk.org.publicwhip/person/25343,Brentford and Isleworth,Labour,ruthcadbury,ruthcadbury,ruthcadbury,Remain,35.17
+84,mp,Eric Pickles,uk.org.publicwhip/person/10477,Brentwood and Ongar,Conservative,ericpickles,ericpickles,ericpickles,Remain,56.27
+85,mp,Mrs Madeleine Moon,uk.org.publicwhip/person/11450,Bridgend,Labour,madeleinemoon,madeleinemoon,madeleinemoon,Remain,51.21
+86,mp,Ian Liddell-Grainger,uk.org.publicwhip/person/11048,Bridgwater and West Somerset,Conservative,,,,Unknown,60.41
+87,mp,Andrew Percy,uk.org.publicwhip/person/24832,Brigg and Goole,Conservative,,andrewpercy,andrewpercy,Leave,65.69
+88,mp,Simon Kirby,uk.org.publicwhip/person/24900,"Brighton, Kemptown",Conservative,,,,Remain,47.3
+89,mp,Caroline Lucas,uk.org.publicwhip/person/24910,"Brighton, Pavilion",Green Party,carolinelucas,,carolinelucas,Remain,27.03
+90,mp,Kerry McCarthy,uk.org.publicwhip/person/11455,Bristol East,Labour,kerrymp,kerrymp,kerrymp,Remain,54.94
+91,mp,Charlotte Leslie,uk.org.publicwhip/person/24891,Bristol North West,Conservative,clesliemp,clesliemp,clesliemp,Leave,46.21
+92,mp,Karin Smyth,uk.org.publicwhip/person/25390,Bristol South,Labour,karinsmyth,karinsmyth,karinsmyth,Remain,54.05
+93,mp,Thangam Debbonaire,uk.org.publicwhip/person/25402,Bristol West,Labour,thangammp,tdebbonaire,"thangammp,tdebbonaire",Remain,19.95
+94,mp,Keith Simpson,uk.org.publicwhip/person/10542,Broadland,Conservative,,keithsimpsonmp,keithsimpsonmp,Remain,60.52
+95,mp,Robert Neill,uk.org.publicwhip/person/13736,Bromley and Chislehurst,Conservative,neill_bob,neill_bob,neill_bob,Remain,51.29
+96,mp,Sajid Javid,uk.org.publicwhip/person/24854,Bromsgrove,Conservative,sajidjavid,sajidjavid,sajidjavid,Remain,56.93
+97,mp,Charles Walker,uk.org.publicwhip/person/11461,Broxbourne,Conservative,,,,Leave,63.62
+98,mp,Anna Soubry,uk.org.publicwhip/person/24772,Broxtowe,Conservative,anna_soubry,anna_soubrymp,"anna_soubry,anna_soubrymp",Remain,54.6
+99,mp,John Bercow,uk.org.publicwhip/person/10040,Buckingham,Speaker,,,,Unknown,47.58
+100,mp,Julie Cooper,uk.org.publicwhip/person/25283,Burnley,Labour,julieforburnley,julieforburnley,julieforburnley,Remain,59.5
+101,mp,Andrew Griffiths,uk.org.publicwhip/person/24826,Burton,Conservative,agriffithsmp,agriffithsmp,agriffithsmp,Remain,62.79
+102,mp,David Nuttall,uk.org.publicwhip/person/24877,Bury North,Conservative,davidnuttallmp,davidnuttallmp,davidnuttallmp,Leave,53.71
+103,mp,Ivan Lewis,uk.org.publicwhip/person/10357,Bury South,Labour,ivanlewis_mp,ivanlewis_mp,ivanlewis_mp,Remain,54.36
+104,mp,Jo Churchill,uk.org.publicwhip/person/25408,Bury St Edmunds,Conservative,jochurchill4,jochurchill4,jochurchill4,Remain,55.96
+105,mp,Wayne David,uk.org.publicwhip/person/10842,Caerphilly,Labour,waynedavid_mp,reelectwdavid,"waynedavid_mp,reelectwdavid",Remain,57.73
+106,mp,Paul Monaghan,uk.org.publicwhip/person/25339,"Caithness, Sutherland and Easter Ross",Scottish National Party,_paulmonaghan,,_paulmonaghan,Remain,#N/A
+107,mp,Craig Whittaker,uk.org.publicwhip/person/24944,Calder Valley,Conservative,cwhittakermp,craigwhi2kermp,"cwhittakermp,craigwhi2kermp",Remain,52.3
+108,mp,Harriet Harman,uk.org.publicwhip/person/10260,Camberwell and Peckham,Labour,harrietharman,harrietharman,harrietharman,Remain,35.1
+109,mp,George Eustice,uk.org.publicwhip/person/24933,Camborne and Redruth,Conservative,,,,Leave,58.13
+110,mp,Daniel Zeichner,uk.org.publicwhip/person/25386,Cambridge,Labour,danielzeichner,danielzeichner,danielzeichner,Remain,30.52
+111,mp,Amanda Milling,uk.org.publicwhip/person/25350,Cannock Chase,Conservative,amandamilling,amandamilling,amandamilling,Remain,68.18
+112,mp,Julian Brazier,uk.org.publicwhip/person/10065,Canterbury,Conservative,,,julian_brazier,Leave,44.73
+113,mp,Jo Stevens,uk.org.publicwhip/person/25304,Cardiff Central,Labour,jostevenslabour,jostevenslabour,jostevenslabour,Remain,28.38
+114,mp,Craig Williams,uk.org.publicwhip/person/25329,Cardiff North,Conservative,craig4cardiffn,craig4cardiffn,craig4cardiffn,Remain,38.31
+115,mp,Stephen Doughty,uk.org.publicwhip/person/25166,Cardiff South and Penarth,Labour,sdoughtymp,sdoughtymp,sdoughtymp,Remain,45.51
+116,mp,Kevin Brennan,uk.org.publicwhip/person/10753,Cardiff West,Labour,kevinbrennanmp,kevinbrennanmp,kevinbrennanmp,Remain,44.22
+117,mp,John Stevenson,uk.org.publicwhip/person/24799,Carlisle,Conservative,johnstevensonmp,johnstevensonmp,johnstevensonmp,Remain,57.81
+118,mp,Jonathan Edwards,uk.org.publicwhip/person/24743,Carmarthen East and Dinefwr,Plaid Cymru,jonathanplaid,jonathanplaid,jonathanplaid,Remain,52.98
+119,mp,Simon Hart,uk.org.publicwhip/person/24813,Carmarthen West and South Pembrokeshire,Conservative,simonhartmp,,simonhartmp,Remain,52.61
+120,mp,Tom Brake,uk.org.publicwhip/person/10063,Carshalton and Wallington,Liberal Democrat,thomasbrake,thomasbrake,thomasbrake,Remain,55.02
+121,mp,Rebecca Harris,uk.org.publicwhip/person/24731,Castle Point,Conservative,rebeccaharrismp,rebeccaharrismp,rebeccaharrismp,Leave,73.44
+122,mp,Philippa Whitford,uk.org.publicwhip/person/25318,Central Ayrshire,Scottish National Party,dr_philippaw,philippa_snp,"dr_philippaw,philippa_snp",Remain,#N/A
+123,mp,Mel Stride,uk.org.publicwhip/person/24914,Central Devon,Conservative,,,,Remain,50.8
+124,mp,Dan Poulter,uk.org.publicwhip/person/24756,Central Suffolk and North Ipswich,Conservative,drdanpoulter,drdanpoulter,drdanpoulter,Remain,56.36
+125,mp,Mark Williams,uk.org.publicwhip/person/11489,Ceredigion,Liberal Democrat,mark4ceredigion,mark4ceredigion,mark4ceredigion,Remain,44.61
+126,mp,Edward Argar,uk.org.publicwhip/person/25396,Charnwood,Conservative,,,,Remain,59.12
+127,mp,Tracey Crouch,uk.org.publicwhip/person/24871,Chatham and Aylesford,Conservative,tracey_crouch,tracey_crouch,tracey_crouch,Unknown,64.39
+128,mp,Mary Robinson,uk.org.publicwhip/person/25405,Cheadle,Conservative,maryrobinson01,maryrobinson01,maryrobinson01,Remain,45.2
+129,mp,Simon Burns,uk.org.publicwhip/person/10079,Chelmsford,Conservative,,,,Remain,51.46
+130,mp,Greg Hands,uk.org.publicwhip/person/11610,Chelsea and Fulham,Conservative,greghands,greghands,greghands,Remain,23.13
+131,mp,Alex Chalk,uk.org.publicwhip/person/25340,Cheltenham,Conservative,alexchalkchelt,alexchalkchelt,alexchalkchelt,Remain,38.76
+132,mp,Cheryl Gillan,uk.org.publicwhip/person/10228,Chesham and Amersham,Conservative,cherylgillanmp,cherylgillanmp,cherylgillanmp,Leave,42.07
+133,mp,Toby Perkins,uk.org.publicwhip/person/24845,Chesterfield,Labour,tobyperkinsmp,tobyperkinsmp,tobyperkinsmp,Remain,60.39
+134,mp,Andrew Tyrie,uk.org.publicwhip/person/10613,Chichester,Conservative,,,,Remain,50.27
+135,mp,Iain Duncan Smith,uk.org.publicwhip/person/10180,Chingford and Woodford Green,Conservative,,,,Leave,53.97
+136,mp,Michelle Donelan,uk.org.publicwhip/person/25316,Chippenham,Conservative,michelledonelan,michelledonelan,michelledonelan,Remain,52.05
+137,mp,Theresa Villiers,uk.org.publicwhip/person/11500,Chipping Barnet,Conservative,,,,Leave,41.41
+138,mp,Lindsay Hoyle,uk.org.publicwhip/person/10295,Chorley,Labour,lindsayhoyle_mp,lindsayhoyle_mp,lindsayhoyle_mp,Unknown,53.01
+139,mp,Christopher Chope,uk.org.publicwhip/person/10103,Christchurch,Conservative,,,,Leave,61.57
+140,mp,Mark Field,uk.org.publicwhip/person/10884,Cities of London and Westminster,Conservative,markfieldmp,markfieldmp,markfieldmp,Remain,23.79
+141,mp,Christian Matheson,uk.org.publicwhip/person/25411,City of Chester,Labour,chrism4chester,chrism4chester,chrism4chester,Remain,45.06
+142,mp,Roberta Blackman-Woods,uk.org.publicwhip/person/11558,City of Durham,Labour,robertabwmp,robertabwmp,robertabwmp,Remain,48.09
+143,mp,Douglas Carswell,uk.org.publicwhip/person/11621,Clacton,United Kingdom Independence Party,douglascarswell,douglascarswell,douglascarswell,Leave,71.93
+144,mp,Martin Vickers,uk.org.publicwhip/person/24814,Cleethorpes,Conservative,martinvickersmp,martinvickersmp,martinvickersmp,Leave,67.75
+145,mp,Susan Elan Jones,uk.org.publicwhip/person/24720,Clwyd South,Labour,susanelanjones,,susanelanjones,Remain,56.02
+146,mp,David Jones,uk.org.publicwhip/person/11506,Clwyd West,Conservative,davidjonesmp,votedavidjones,"davidjonesmp,votedavidjones",Leave,51.71
+147,mp,Philip Boswell,uk.org.publicwhip/person/25315,"Coatbridge, Chryston and Bellshill",Scottish National Party,philboswellsnp,,philboswellsnp,Remain,#N/A
+148,mp,Will Quince,uk.org.publicwhip/person/25403,Colchester,Conservative,willquince,willquince,willquince,Leave,49.22
+149,mp,Jason McCartney,uk.org.publicwhip/person/24887,Colne Valley,Conservative,jasonmccartney,jasonmccartney,jasonmccartney,Leave,52.17
+150,mp,Fiona Bruce,uk.org.publicwhip/person/24857,Congleton,Conservative,,,,Leave,52.98
+151,mp,Jamie Reed,uk.org.publicwhip/person/11511,Copeland,Labour,jreedmp,jreedmp,jreedmp,Remain,62.45
+152,mp,Tom Pursglove,uk.org.publicwhip/person/25387,Corby,Conservative,votepursglove,votepursglove,votepursglove,Remain,64.56
+153,mp,Colleen Fletcher,uk.org.publicwhip/person/25319,Coventry North East,Labour,,,,Remain,59.59
+154,mp,Geoffrey Robinson,uk.org.publicwhip/person/10506,Coventry North West,Labour,,,,Remain,59.02
+155,mp,Jim Cunningham,uk.org.publicwhip/person/10147,Coventry South,Labour,,,,Remain,50.12
+156,mp,Henry Smith,uk.org.publicwhip/person/24802,Crawley,Conservative,henrysmithmp,henrysmithmp,henrysmithmp,Remain,60.25
+157,mp,Edward Timpson,uk.org.publicwhip/person/14128,Crewe and Nantwich,Conservative,edwardtimpson,,edwardtimpson,Remain,58.17
+158,mp,Gavin Barwell,uk.org.publicwhip/person/24863,Croydon Central,Conservative,gavinbarwellmp,backbarwell,"gavinbarwellmp,backbarwell",Remain,50.25
+159,mp,Steve Reed,uk.org.publicwhip/person/25170,Croydon North,Labour,stevereedmp,stevereedmp,stevereedmp,Remain,43.94
+160,mp,Chris Philp,uk.org.publicwhip/person/25377,Croydon South,Conservative,chrisphilp_mp,chrisphilp4mp,"chrisphilp_mp,chrisphilp4mp",Remain,47.43
+161,mp,Stuart C. McDonald,uk.org.publicwhip/person/25301,"Cumbernauld, Kilsyth and Kirkintilloch East",Scottish National Party,stuart_mcdonald,,stuart_mcdonald,Remain,#N/A
+162,mp,Ann Clwyd,uk.org.publicwhip/person/10120,Cynon Valley,Labour,annclwyd,annclwyd,annclwyd,Remain,60.49
+163,mp,Jon Cruddas,uk.org.publicwhip/person/10828,Dagenham and Rainham,Labour,joncruddas_1,joncruddas_1,joncruddas_1,Remain,65.23
+164,mp,Jenny Chapman,uk.org.publicwhip/person/24711,Darlington,Labour,jennychapman,jennychapman,jennychapman,Remain,59.04
+165,mp,Gareth Johnson,uk.org.publicwhip/person/24803,Dartford,Conservative,garethjohnsonmp,,garethjohnsonmp,Leave,60.82
+166,mp,Chris Heaton-Harris,uk.org.publicwhip/person/24841,Daventry,Conservative,chhcalling,chhcalling,chhcalling,Leave,56.62
+167,mp,David Hanson,uk.org.publicwhip/person/10259,Delyn,Labour,davidhansonmp,davidhansonmp,davidhansonmp,Remain,57.16
+168,mp,Andrew Gwynne,uk.org.publicwhip/person/11531,Denton and Reddish,Labour,gwynnemp,gwynnemp,gwynnemp,Remain,64.57
+169,mp,Amanda Solloway,uk.org.publicwhip/person/25436,Derby North,Conservative,asollowaymp,amanda4derbyn,asollowaymp,Remain,51.94
+170,mp,Margaret Beckett,uk.org.publicwhip/person/10031,Derby South,Labour,,,,Remain,60.1
+171,mp,Patrick McLoughlin,uk.org.publicwhip/person/10397,Derbyshire Dales,Conservative,patrick4dales,,patrick4dales,Remain,51.55
+172,mp,Claire Perry,uk.org.publicwhip/person/24915,Devizes,Conservative,claire4devizes,claire4devizes,claire4devizes,Remain,53.26
+173,mp,Paula Sherriff,uk.org.publicwhip/person/25421,Dewsbury,Labour,paulasherriff,paulasherriff,paulasherriff,Remain,60.34
+174,mp,Caroline Flint,uk.org.publicwhip/person/10202,Don Valley,Labour,carolineflintmp,carolineflintmp,carolineflintmp,Remain,67.07
+175,mp,Rosie Winterton,uk.org.publicwhip/person/10648,Doncaster Central,Labour,,,,Remain,64.41
+176,mp,Edward Miliband,uk.org.publicwhip/person/11545,Doncaster North,Labour,ed_miliband,ed_miliband,ed_miliband,Remain,69.86
+177,mp,Charlie Elphicke,uk.org.publicwhip/person/24777,Dover,Conservative,charlieelphicke,charlieelphicke,charlieelphicke,Remain,61.8
+178,mp,Ian Austin,uk.org.publicwhip/person/11553,Dudley North,Labour,ianaustinmp,ianaustinmp,ianaustinmp,Remain,67.88
+179,mp,Mike Wood,uk.org.publicwhip/person/25362,Dudley South,Conservative,mikejwood,mikejwood,mikejwood,Leave,68.11
+180,mp,Helen Hayes,uk.org.publicwhip/person/25310,Dulwich and West Norwood,Labour,helenhayes_,helenhayes_,helenhayes_,Remain,26.82
+181,mp,Richard Arkless,uk.org.publicwhip/person/25351,Dumfries and Galloway,Scottish National Party,arklessrichard,arklessrichard,arklessrichard,Remain,#N/A
+182,mp,David Mundell,uk.org.publicwhip/person/11970,"Dumfriesshire, Clydesdale and Tweeddale",Conservative,davidmundelldct,,davidmundelldct,Remain,#N/A
+183,mp,Stewart Hosie,uk.org.publicwhip/person/11973,Dundee East,Scottish National Party,stewarthosiesnp,stewarthosiemp,"stewarthosiesnp,stewarthosiemp",Remain,#N/A
+184,mp,Chris Law,uk.org.publicwhip/person/25270,Dundee West,Scottish National Party,chrislawsnp,chrislawsnp,chrislawsnp,Remain,#N/A
+185,mp,Douglas Chapman,uk.org.publicwhip/person/25305,Dunfermline and West Fife,Scottish National Party,dougchapmansnp,dougchapmansnp,dougchapmansnp,Remain,#N/A
+186,mp,Liz Saville Roberts,uk.org.publicwhip/person/25302,Dwyfor Meirionnydd,Plaid Cymru,lsrplaid,lsrplaid,lsrplaid,Remain,54.71
+187,mp,Rupa Huq,uk.org.publicwhip/person/25284,Ealing Central and Acton,Labour,rupahuq,rupahuq,rupahuq,Remain,29.17
+188,mp,Stephen Pound,uk.org.publicwhip/person/10484,Ealing North,Labour,,,,Remain,48.94
+189,mp,Virendra Sharma,uk.org.publicwhip/person/13934,"Ealing, Southall",Labour,virendrasharma,,virendrasharma,Remain,45.72
+190,mp,Grahame Morris,uk.org.publicwhip/person/24715,Easington,Labour,grahamemorris,grahamemorris,grahamemorris,Remain,68.79
+191,mp,Sammy Wilson,uk.org.publicwhip/person/11374,East Antrim,Democratic Unionist Party,eastantrimmp,,eastantrimmp,Leave,55.19
+192,mp,Hugo Swire,uk.org.publicwhip/person/11265,East Devon,Conservative,hugoswire,hugoswire,hugoswire,Remain,50.81
+193,mp,John Nicolson,uk.org.publicwhip/person/25281,East Dunbartonshire,Scottish National Party,mrjohnnicolson,mrjohnnicolson,mrjohnnicolson,Remain,#N/A
+194,mp,Stephen Timms,uk.org.publicwhip/person/10596,East Ham,Labour,stephenctimms,stephenctimms,stephenctimms,Remain,41.79
+195,mp,Damian Hinds,uk.org.publicwhip/person/24782,East Hampshire,Conservative,damian57,damian57,damian57,Remain,48.39
+196,mp,Lisa Cameron,uk.org.publicwhip/person/25276,"East Kilbride, Strathaven and Lesmahagow",Scottish National Party,lisacameronmp,,lisacameronmp,Remain,#N/A
+197,mp,Gregory Campbell,uk.org.publicwhip/person/10780,East Londonderry,Democratic Unionist Party,,,,Leave,47.97
+198,mp,George Kerevan,uk.org.publicwhip/person/25325,East Lothian,Scottish National Party,georgekerevan,georgekerevan,georgekerevan,Remain,#N/A
+199,mp,Kirsten Oswald,uk.org.publicwhip/person/25294,East Renfrewshire,Scottish National Party,kirstenoswald,kirstenoswald,kirstenoswald,Remain,#N/A
+200,mp,Sam Gyimah,uk.org.publicwhip/person/24789,East Surrey,Conservative,samgyimah,samgyimah,samgyimah,Remain,52.25
+201,mp,Tim Loughton,uk.org.publicwhip/person/10371,East Worthing and Shoreham,Conservative,timloughton,timloughton,timloughton,Leave,59.22
+202,mp,Greg Knight,uk.org.publicwhip/person/11026,East Yorkshire,Conservative,gregknightmp,gregknightmp,gregknightmp,Leave,61.84
+203,mp,Caroline Ansell,uk.org.publicwhip/person/25335,Eastbourne,Conservative,caroline_ansell,caroline_ansell,caroline_ansell,Leave,56.34
+204,mp,Mims Davies,uk.org.publicwhip/person/25330,Eastleigh,Conservative,mimsdavies,mimsdavies,mimsdavies,Leave,57.19
+205,mp,Antoinette Sandbach,uk.org.publicwhip/person/25363,Eddisbury,Conservative,asandbachmp,,asandbachmp,Remain,53.45
+206,mp,Tommy Sheppard,uk.org.publicwhip/person/25341,Edinburgh East,Scottish National Party,tommysheppard,,tommysheppard,Remain,28
+207,mp,Deidre Brock,uk.org.publicwhip/person/25336,Edinburgh North and Leith,Scottish National Party,deidrebrock,,deidrebrock,Remain,22
+208,mp,Ian Murray,uk.org.publicwhip/person/24872,Edinburgh South,Labour,ianmurraymp,,ianmurraymp,Remain,22
+209,mp,Joanna Cherry,uk.org.publicwhip/person/25404,Edinburgh South West,Scottish National Party,joannaccherry,,joannaccherry,Remain,28
+210,mp,Michelle Thomson,uk.org.publicwhip/person/25352,Edinburgh West,Independent,michellethomson,,michellethomson,Remain,29
+211,mp,Kate Osamor,uk.org.publicwhip/person/25365,Edmonton,Labour,kateosamor,kateosamor,kateosamor,Remain,53.62
+212,mp,Justin Madders,uk.org.publicwhip/person/25378,Ellesmere Port and Neston,Labour,justinmadders,,justinmadders,Remain,59.31
+213,mp,Alec Shelbrooke,uk.org.publicwhip/person/24893,Elmet and Rothwell,Conservative,alecshelbrooke,alecshelbrooke,alecshelbrooke,Remain,59.94
+214,mp,Clive Efford,uk.org.publicwhip/person/10185,Eltham,Labour,cliveefford,cliveefford,cliveefford,Remain,53.27
+215,mp,Joan Ryan,uk.org.publicwhip/person/10523,Enfield North,Labour,joanryanenfield,joanryanenfield,joanryanenfield,Remain,53.02
+216,mp,David Burrowes,uk.org.publicwhip/person/11573,"Enfield, Southgate",Conservative,davidburrowesmp,,davidburrowesmp,Leave,42.63
+217,mp,Mrs Eleanor Laing,uk.org.publicwhip/person/10348,Epping Forest,Conservative,eleanorlaingmp,eleanor4epping,"eleanorlaingmp,eleanor4epping",Unknown,57.12
+218,mp,Chris Grayling,uk.org.publicwhip/person/10920,Epsom and Ewell,Conservative,commonsleader,,commonsleader,Leave,46.4
+219,mp,Maggie Throup,uk.org.publicwhip/person/25371,Erewash,Conservative,mthroup,mthroup,mthroup,Remain,66.14
+220,mp,Teresa Pearce,uk.org.publicwhip/person/24956,Erith and Thamesmead,Labour,tpearce003,tpearce003,tpearce003,Remain,52.4
+221,mp,Dominic Raab,uk.org.publicwhip/person/24815,Esher and Walton,Conservative,,,,Leave,39.16
+222,mp,Ben Bradshaw,uk.org.publicwhip/person/10061,Exeter,Labour,benpbradshaw,benpbradshaw,benpbradshaw,Remain,45.88
+223,mp,John Mc Nally,uk.org.publicwhip/person/25271,Falkirk,Scottish National Party,johnmcnallymp,johnny4falkirk,"johnmcnallymp,johnny4falkirk",Remain,#N/A
+224,mp,Suella Fernandes,uk.org.publicwhip/person/25272,Fareham,Conservative,suellafernandes,suellafernandes,suellafernandes,Leave,54.54
+225,mp,Helen Whately,uk.org.publicwhip/person/25398,Faversham and Mid Kent,Conservative,helen_whately,,helen_whately,Remain,58.58
+226,mp,Seema Malhotra,uk.org.publicwhip/person/25150,Feltham and Heston,Labour,seemamalhotra1,seemamalhotra1,seemamalhotra1,Remain,53.73
+227,mp,Tom Elliott,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,Ulster Unionist Party,telliott_uup,,telliott_uup,Leave,41.48
+228,mp,Jack Lopresti,uk.org.publicwhip/person/24716,Filton and Bradley Stoke,Conservative,jackloprestimp,jackloprestimp,jackloprestimp,Leave,51.25
+229,mp,Mike Freer,uk.org.publicwhip/person/24934,Finchley and Golders Green,Conservative,mikefreermp,mikefreermp,mikefreermp,Remain,32.54
+230,mp,Damian Collins,uk.org.publicwhip/person/24744,Folkestone and Hythe,Conservative,damiancollins,damiancollins,damiancollins,Remain,60.78
+231,mp,Mark Harper,uk.org.publicwhip/person/11588,Forest of Dean,Conservative,mark_j_harper,mark_j_harper,mark_j_harper,Remain,58.37
+232,mp,Mark Durkan,uk.org.publicwhip/person/11589,Foyle,Social Democratic and Labour Party,markdurkan,,markdurkan,Remain,21.74
+233,mp,Mark Menzies,uk.org.publicwhip/person/24804,Fylde,Conservative,,,,Remain,54.93
+234,mp,Edward Leigh,uk.org.publicwhip/person/10352,Gainsborough,Conservative,edwardleighmp,edwardleighmp,edwardleighmp,Leave,58.33
+235,mp,Maria Eagle,uk.org.publicwhip/person/10183,Garston and Halewood,Labour,meaglemp,meaglemp,meaglemp,Remain,56.27
+236,mp,Ian Mearns,uk.org.publicwhip/person/24919,Gateshead,Labour,ianmearnsmp,ianmearnsmp,ianmearnsmp,Remain,60.5
+237,mp,Vernon Coaker,uk.org.publicwhip/person/10121,Gedling,Labour,vernon_coaker,vernon_coakermp,"vernon_coaker,vernon_coakermp",Remain,57.9
+238,mp,Rehman Chishti,uk.org.publicwhip/person/24920,Gillingham and Rainham,Conservative,rehman_chishti,rehman_chishti,rehman_chishti,Leave,62.79
+239,mp,Alison Thewliss,uk.org.publicwhip/person/25327,Glasgow Central,Scottish National Party,alisonthewliss,alisonthewliss,alisonthewliss,Remain,29
+240,mp,Natalie McGarry,uk.org.publicwhip/person/25303,Glasgow East,Independent,nataliemcgarry,,nataliemcgarry,Remain,44
+241,mp,Patrick Grady,uk.org.publicwhip/person/25299,Glasgow North,Scottish National Party,gradysnp,gradysnp,gradysnp,Remain,22
+242,mp,Anne McLaughlin,uk.org.publicwhip/person/14146,Glasgow North East,Scottish National Party,annemclaughlin,annemclaughlin,annemclaughlin,Remain,41
+243,mp,Carol Monaghan,uk.org.publicwhip/person/25406,Glasgow North West,Scottish National Party,cmonaghanmp,carol4glanw,"cmonaghanmp,carol4glanw",Remain,31
+244,mp,Stewart Malcolm McDonald,uk.org.publicwhip/person/25322,Glasgow South,Scottish National Party,stewartmcdonald,stewartmcdonald,stewartmcdonald,Remain,28
+245,mp,Chris Stephens,uk.org.publicwhip/person/25306,Glasgow South West,Scottish National Party,chrisstephens,cstephenssnp,"chrisstephens,cstephenssnp",Remain,41
+246,mp,Peter Grant,uk.org.publicwhip/person/25273,Glenrothes,Scottish National Party,petergrantmp,glencentfifesnp,"petergrantmp,glencentfifesnp",Remain,#N/A
+247,mp,Richard Graham,uk.org.publicwhip/person/24921,Gloucester,Conservative,richardgrahammp,richardgrahammp,richardgrahammp,Remain,56.14
+248,mp,Alex Salmond,uk.org.publicwhip/person/10525,Gordon,Scottish National Party,alexsalmond,alexsalmond,alexsalmond,Remain,#N/A
+249,mp,Caroline Dinenage,uk.org.publicwhip/person/24873,Gosport,Conservative,cj_dinenage,cj_dinenage,cj_dinenage,Remain,59.71
+250,mp,Byron Davies,uk.org.publicwhip/person/25355,Gower,Conservative,byron_davies,byron_davies,byron_davies,Remain,47.06
+251,mp,Nick Boles,uk.org.publicwhip/person/24766,Grantham and Stamford,Conservative,nickbolesmp,nickbolesmp,nickbolesmp,Remain,59.89
+252,mp,Adam Holloway,uk.org.publicwhip/person/11599,Gravesham,Conservative,adamhollowaymp,adamhollowaymp,adamhollowaymp,Leave,62.53
+253,mp,Melanie Onn,uk.org.publicwhip/person/25317,Great Grimsby,Labour,onnmel,onnmel,onnmel,Remain,67.2
+254,mp,Brandon Lewis,uk.org.publicwhip/person/24879,Great Yarmouth,Conservative,brandonlewis,brandonlewis,brandonlewis,Remain,69.03
+255,mp,Matthew Pennycook,uk.org.publicwhip/person/25379,Greenwich and Woolwich,Labour,mtpennycook,mtpennycook,mtpennycook,Remain,34.91
+256,mp,Anne Milton,uk.org.publicwhip/person/11603,Guildford,Conservative,annemiltonmp,annemiltonmp,annemiltonmp,Unknown,38.71
+257,mp,Diane Abbott,uk.org.publicwhip/person/10001,Hackney North and Stoke Newington,Labour,hackneyabbott,hackneyabbott,hackneyabbott,Remain,29.77
+258,mp,Meg Hillier,uk.org.publicwhip/person/11605,Hackney South and Shoreditch,Labour,meg_hilliermp,meg_hilliermp,meg_hilliermp,Remain,29.38
+259,mp,James Morris,uk.org.publicwhip/person/24855,Halesowen and Rowley Regis,Conservative,jamesmorrishrr,jamesmorrismp,"jamesmorrishrr,jamesmorrismp",Remain,65.82
+260,mp,Holly Lynch,uk.org.publicwhip/person/25434,Halifax,Labour,hollylynch5,hollylynch5,hollylynch5,Remain,61.66
+261,mp,David Davis,uk.org.publicwhip/person/10162,Haltemprice and Howden,Conservative,daviddavismp,,daviddavismp,Leave,54.63
+262,mp,Derek Twigg,uk.org.publicwhip/person/10610,Halton,Labour,derektwiggmp,derektwiggmp,derektwiggmp,Remain,63.7
+263,mp,Andy Slaughter,uk.org.publicwhip/person/11559,Hammersmith,Labour,hammersmithandy,hammersmithandy,hammersmithandy,Remain,26.78
+264,mp,Tulip Siddiq,uk.org.publicwhip/person/25344,Hampstead and Kilburn,Labour,tulipsiddiq,tulipsiddiq,tulipsiddiq,Remain,22.62
+265,mp,Edward Garnier,uk.org.publicwhip/person/10221,Harborough,Conservative,egarniermp,ehgarnier,"egarniermp,ehgarnier",Remain,55.93
+266,mp,Robert Halfon,uk.org.publicwhip/person/24784,Harlow,Conservative,halfon4harlowmp,halfon4harlowmp,halfon4harlowmp,Remain,62.53
+267,mp,Andrew Jones,uk.org.publicwhip/person/24758,Harrogate and Knaresborough,Conservative,ajonesmp,andrewjonesmp,"ajonesmp,andrewjonesmp",Remain,48.59
+268,mp,Bob Blackman,uk.org.publicwhip/person/24945,Harrow East,Conservative,bobblackmanmp,votebobblackman,"bobblackmanmp,votebobblackman",Leave,49.45
+269,mp,Gareth Thomas,uk.org.publicwhip/person/10594,Harrow West,Labour,gareththomasmp,gareththomasmp,gareththomasmp,Remain,40.86
+270,mp,Iain Wright,uk.org.publicwhip/person/11362,Hartlepool,Labour,iainwrightmp,iainwrightmp,iainwrightmp,Remain,63.49
+271,mp,Bernard Jenkin,uk.org.publicwhip/person/10312,Harwich and North Essex,Conservative,bernardjenkin,bernardjenkin,bernardjenkin,Leave,59.07
+272,mp,Amber Rudd,uk.org.publicwhip/person/24795,Hastings and Rye,Conservative,amberrudd_mp,amberruddmp,"amberrudd_mp,amberruddmp",Remain,57.12
+273,mp,Alan Mak,uk.org.publicwhip/person/25285,Havant,Conservative,alanmakmp,alanmak4mp,"alanmakmp,alanmak4mp",Remain,62.62
+274,mp,John McDonnell,uk.org.publicwhip/person/10383,Hayes and Harlington,Labour,johnmcdonnellmp,johnmcdonnellmp,johnmcdonnellmp,Remain,56.11
+275,mp,William Wragg,uk.org.publicwhip/person/25360,Hazel Grove,Conservative,william_wragg,william_wragg,william_wragg,Leave,54.66
+276,mp,Mike Penning,uk.org.publicwhip/person/11626,Hemel Hempstead,Conservative,,,,Leave,54.31
+277,mp,Jon Trickett,uk.org.publicwhip/person/10604,Hemsworth,Labour,jon_trickett,jon_trickett,jon_trickett,Remain,67.32
+278,mp,Matthew Offord,uk.org.publicwhip/person/24955,Hendon,Conservative,offord4hendon,hendonmp,"offord4hendon,hendonmp",Leave,44.06
+279,mp,John Howell,uk.org.publicwhip/person/14131,Henley,Conservative,johnhowellmp,johnhowellmp,johnhowellmp,Remain,45.11
+280,mp,Jesse Norman,uk.org.publicwhip/person/24827,Hereford and South Herefordshire,Conservative,jesse_norman,jesse_norman,jesse_norman,Unknown,57.76
+281,mp,Mark Prisk,uk.org.publicwhip/person/11172,Hertford and Stortford,Conservative,priskmark,priskmark,priskmark,Remain,49.15
+282,mp,Oliver Dowden,uk.org.publicwhip/person/25323,Hertsmere,Conservative,,,,Remain,50.56
+283,mp,Guy Opperman,uk.org.publicwhip/person/24962,Hexham,Conservative,guyopperman,guyoppermanmp,"guyopperman,guyoppermanmp",Remain,48.88
+284,mp,Liz McInnes,uk.org.publicwhip/person/25230,Heywood and Middleton,Labour,lizmcinnesmp,lizmcinnesmp,lizmcinnesmp,Remain,60.8
+285,mp,Andrew Bingham,uk.org.publicwhip/person/24748,High Peak,Conservative,highpeakandrew,highpeakandrew,highpeakandrew,Leave,52.96
+286,mp,Peter Lilley,uk.org.publicwhip/person/10362,Hitchin and Harpenden,Conservative,lilleypeter,lilleypeter,lilleypeter,Leave,38.34
+287,mp,Keir Starmer,uk.org.publicwhip/person/25353,Holborn and St Pancras,Labour,keir_starmer,keir_starmer,keir_starmer,Remain,25.92
+288,mp,Angela Watkinson,uk.org.publicwhip/person/11308,Hornchurch and Upminster,Conservative,angelawatkinson,,angelawatkinson,Remain,67.62
+289,mp,Catherine West,uk.org.publicwhip/person/25328,Hornsey and Wood Green,Labour,catherinewest1,catherinewest1,catherinewest1,Remain,21.68
+290,mp,Jeremy Quin,uk.org.publicwhip/person/25417,Horsham,Conservative,,,,Remain,52.43
+291,mp,Bridget Phillipson,uk.org.publicwhip/person/24709,Houghton and Sunderland South,Labour,bphillipsonmp,bphillipsonmp,bphillipsonmp,Remain,66.3
+292,mp,Peter Kyle,uk.org.publicwhip/person/25418,Hove,Labour,peterkyle,peterkyle,peterkyle,Remain,37.21
+293,mp,Barry Sheerman,uk.org.publicwhip/person/10534,Huddersfield,Labour,barrysheerman,barrysheerman,barrysheerman,Remain,53.9
+294,mp,Jonathan Djanogly,uk.org.publicwhip/person/10854,Huntingdon,Conservative,jdjanogly,jdjanogly,jdjanogly,Remain,54.7
+295,mp,Graham Jones,uk.org.publicwhip/person/24835,Hyndburn,Labour,grahamjones_mp,grahamjones_mp,grahamjones_mp,Remain,60.48
+296,mp,Wes Streeting,uk.org.publicwhip/person/25320,Ilford North,Labour,wesstreeting,wesstreeting,wesstreeting,Remain,51.4
+297,mp,Mike Gapes,uk.org.publicwhip/person/10219,Ilford South,Labour,mikegapes,mikegapes,mikegapes,Remain,42.88
+298,mp,Ronnie Cowan,uk.org.publicwhip/person/25288,Inverclyde,Scottish National Party,ronniecowan,ronniecowan,ronniecowan,Remain,#N/A
+299,mp,Drew Hendry,uk.org.publicwhip/person/25382,"Inverness, Nairn, Badenoch and Strathspey",Scottish National Party,drewhendrysnp,,drewhendrysnp,Remain,#N/A
+300,mp,Ben Gummer,uk.org.publicwhip/person/24922,Ipswich,Conservative,ben4ipswich,ben4ipswich,ben4ipswich,Remain,57.52
+301,mp,Andrew Turner,uk.org.publicwhip/person/11291,Isle of Wight,Conservative,theislandsmp,theislandsmp,theislandsmp,Leave,59.58
+302,mp,Jeremy Corbyn,uk.org.publicwhip/person/10133,Islington North,Labour,jeremycorbyn,jeremycorbyn,jeremycorbyn,Remain,24.3
+303,mp,Emily Thornberry,uk.org.publicwhip/person/11656,Islington South and Finsbury,Labour,emilythornberry,emilythornberry,emilythornberry,Remain,29.8
+304,mp,Christopher Evans,uk.org.publicwhip/person/24721,Islwyn,Labour,chrisevansmp,,chrisevansmp,Remain,61.41
+305,mp,Stephen Hepburn,uk.org.publicwhip/person/10274,Jarrow,Labour,jarrowstevemp,jarrowstevemp,jarrowstevemp,Remain,62.91
+306,mp,Kris Hopkins,uk.org.publicwhip/person/24923,Keighley,Conservative,,krishopkins2015,krishopkins2015,Remain,55.82
+307,mp,Jeremy Wright,uk.org.publicwhip/person/11791,Kenilworth and Southam,Conservative,,,,Remain,49.48
+308,mp,Victoria Borwick,uk.org.publicwhip/person/25311,Kensington,Conservative,backborwick,,backborwick,Leave,23.06
+309,mp,Philip Hollobone,uk.org.publicwhip/person/11661,Kettering,Conservative,,,,Leave,59.87
+310,mp,Alan Brown,uk.org.publicwhip/person/25268,Kilmarnock and Loudoun,Scottish National Party,alanbrownsnp,,alanbrownsnp,Remain,#N/A
+311,mp,James Berry,uk.org.publicwhip/person/25312,Kingston and Surbiton,Conservative,jamesberrymp,votejamesberry,"jamesberrymp,votejamesberry",Remain,40.39
+312,mp,Karl Turner,uk.org.publicwhip/person/24767,Kingston upon Hull East,Labour,karlturnermp,karlturnermp,karlturnermp,Remain,68.74
+313,mp,Diana Johnson,uk.org.publicwhip/person/11647,Kingston upon Hull North,Labour,dianajohnsonmp,dianajohnsonmp,dianajohnsonmp,Remain,55.14
+314,mp,Alan Johnson,uk.org.publicwhip/person/10314,Kingston upon Hull West and Hessle,Labour,,,,Remain,64.84
+315,mp,Chris Skidmore,uk.org.publicwhip/person/24713,Kingswood,Conservative,cskidmoremp,chrisskidmoremp,"cskidmoremp,chrisskidmoremp",Remain,60.63
+316,mp,Roger Mullin,uk.org.publicwhip/person/25286,Kirkcaldy and Cowdenbeath,Scottish National Party,rogmull,rogmull,rogmull,Remain,#N/A
+317,mp,George Howarth,uk.org.publicwhip/person/10292,Knowsley,Labour,,,,Remain,62.49
+318,mp,Jeffrey Donaldson,uk.org.publicwhip/person/10172,Lagan Valley,Democratic Unionist Party,j_donaldson_mp,,j_donaldson_mp,Leave,53.09
+319,mp,Angela Crawley,uk.org.publicwhip/person/25295,Lanark and Hamilton East,Scottish National Party,angelacrawleymp,crawleyangela,"angelacrawleymp,crawleyangela",Remain,#N/A
+320,mp,Cat Smith,uk.org.publicwhip/person/25432,Lancaster and Fleetwood,Labour,catsmithmp,cateysmith,"catsmithmp,cateysmith",Remain,48.21
+321,mp,Hilary Benn,uk.org.publicwhip/person/10669,Leeds Central,Labour,hilarybennmp,hilarybennmp,hilarybennmp,Remain,48.74
+322,mp,Richard Burgon,uk.org.publicwhip/person/25391,Leeds East,Labour,richardburgon,richardburgon,richardburgon,Remain,63.66
+323,mp,Fabian Hamilton,uk.org.publicwhip/person/10256,Leeds North East,Labour,,fabianhamilton,fabianhamilton,Remain,39.45
+324,mp,Greg Mulholland,uk.org.publicwhip/person/11672,Leeds North West,Liberal Democrat,gregmulholland1,gregmulholland1,gregmulholland1,Remain,36.56
+325,mp,Rachel Reeves,uk.org.publicwhip/person/24851,Leeds West,Labour,rachelreevesmp,rachelreevesmp,rachelreevesmp,Remain,56.24
+326,mp,Keith Vaz,uk.org.publicwhip/person/10614,Leicester East,Labour,keith4leicester,keith_vazmp,"keith4leicester,keith_vazmp",Remain,58.5
+327,mp,Jonathan Ashworth,uk.org.publicwhip/person/25120,Leicester South,Labour,jonashworth,jonashworth,jonashworth,Remain,47.3
+328,mp,Liz Kendall,uk.org.publicwhip/person/24816,Leicester West,Labour,leicesterliz,leicesterliz,leicesterliz,Remain,55.85
+329,mp,Andy Burnham,uk.org.publicwhip/person/10766,Leigh,Labour,andyburnhammp,andyburnhammp,andyburnhammp,Remain,60.95
+330,mp,Maria Caulfield,uk.org.publicwhip/person/25397,Lewes,Conservative,mariacaulfield,mariacaulfield,mariacaulfield,Leave,49.89
+332,mp,Heidi Alexander,uk.org.publicwhip/person/24953,Lewisham East,Labour,heidi_mp,heidi_mp,heidi_mp,Remain,42.54
+333,mp,Jim Dowd,uk.org.publicwhip/person/10176,Lewisham West and Penge,Labour,,,,Remain,38.37
+331,mp,Vicky Foxcroft,uk.org.publicwhip/person/25380,"Lewisham, Deptford",Labour,vickyfoxcroft,,vickyfoxcroft,Remain,29.95
+334,mp,John Cryer,uk.org.publicwhip/person/10143,Leyton and Wanstead,Labour,johncryermp,johncryermp,johncryermp,Leave,40.11
+335,mp,Michael Fabricant,uk.org.publicwhip/person/10193,Lichfield,Conservative,mike_fabricant,mike_fabricant,mike_fabricant,Leave,56.39
+336,mp,Karl McCartney,uk.org.publicwhip/person/24790,Lincoln,Conservative,karlmccartney,karlmccartney,karlmccartney,Leave,53.78
+337,mp,Martyn Day,uk.org.publicwhip/person/25307,Linlithgow and East Falkirk,Scottish National Party,martyndaysnp,martynday4mp,"martyndaysnp,martynday4mp",Remain,#N/A
+338,mp,Mrs Louise Ellman,uk.org.publicwhip/person/10186,"Liverpool, Riverside",Labour,louiseellman,,louiseellman,Remain,35.07
+339,mp,Steve Rotheram,uk.org.publicwhip/person/24935,"Liverpool, Walton",Labour,stevemetromayor,steve4lcrmayor,"steve4lcrmayor,stevemetromayor",Remain,61.34
+340,mp,Luciana Berger,uk.org.publicwhip/person/24924,"Liverpool, Wavertree",Labour,lucianaberger,,lucianaberger,Remain,44.01
+341,mp,Stephen Twigg,uk.org.publicwhip/person/10611,"Liverpool, West Derby",Labour,stephentwigg,,stephentwigg,Remain,58.53
+342,mp,Hannah Bardell,uk.org.publicwhip/person/25409,Livingston,Scottish National Party,hannahb4livimp,hannahb4livimp,hannahb4livimp,Remain,#N/A
+343,mp,Nia Griffith,uk.org.publicwhip/person/11692,Llanelli,Labour,niagriffithmp,niagriffithmp,niagriffithmp,Remain,56.43
+344,mp,Nicky Morgan,uk.org.publicwhip/person/24732,Loughborough,Conservative,nickymorgan01,nickymorgan01,nickymorgan01,Remain,49.42
+345,mp,Victoria Atkins,uk.org.publicwhip/person/25424,Louth and Horncastle,Conservative,,vmatkins,vmatkins,Remain,65.59
+346,mp,Philip Dunne,uk.org.publicwhip/person/11696,Ludlow,Conservative,dunne4ludlow,philipdunnemp,"dunne4ludlow,philipdunnemp",Remain,58.03
+347,mp,Kelvin Hopkins,uk.org.publicwhip/person/10288,Luton North,Labour,,,,Leave,56.29
+348,mp,Gavin Shuker,uk.org.publicwhip/person/24847,Luton South,Labour,gavinshuker,gavinshuker,gavinshuker,Remain,53.07
+349,mp,David Rutley,uk.org.publicwhip/person/24820,Macclesfield,Conservative,davidrutleymp,davidrutleymp,davidrutleymp,Remain,47.66
+350,mp,Theresa May,uk.org.publicwhip/person/10426,Maidenhead,Conservative,,,,Remain,44.61
+351,mp,Mrs Helen Grant,uk.org.publicwhip/person/24796,Maidstone and The Weald,Conservative,helengrantmp,helengrantmp,helengrantmp,Remain,55.7
+352,mp,Yvonne Fovargue,uk.org.publicwhip/person/24805,Makerfield,Labour,y_fovarguemp,y_fovarguemp,y_fovarguemp,Remain,62.21
+353,mp,John Whittingdale,uk.org.publicwhip/person/10632,Maldon,Conservative,jwhittingdale,,jwhittingdale,Leave,61.43
+354,mp,Lucy Powell,uk.org.publicwhip/person/25165,Manchester Central,Labour,lucympowell,lucympowell,lucympowell,Remain,36.81
+355,mp,Gerald Kaufman,uk.org.publicwhip/person/10327,"Manchester, Gorton",Labour,,,,Remain,39.53
+356,mp,Jeff Smith,uk.org.publicwhip/person/25366,"Manchester, Withington",Labour,jeffsmithetc,,jeffsmithetc,Remain,24.18
+357,mp,Alan Meale,uk.org.publicwhip/person/10428,Mansfield,Labour,,,,Remain,66.7
+358,mp,George Hollingbery,uk.org.publicwhip/person/24936,Meon Valley,Conservative,,ghollingbery,ghollingbery,Remain,53.22
+359,mp,Caroline Spelman,uk.org.publicwhip/person/10559,Meriden,Conservative,spelmanc,spelmanc,spelmanc,Remain,59.15
+360,mp,Gerald Jones,uk.org.publicwhip/person/25289,Merthyr Tydfil and Rhymney,Labour,geraldjoneslab,geraldjoneslab,geraldjoneslab,Remain,61.04
+361,mp,Nadine Dorries,uk.org.publicwhip/person/11397,Mid Bedfordshire,Conservative,nadinedorriesmp,nadinedorriesmp,nadinedorriesmp,Leave,52.06
+362,mp,Pauline Latham,uk.org.publicwhip/person/24821,Mid Derbyshire,Conservative,pauline_latham,pauline_latham,pauline_latham,Unknown,53.48
+363,mp,Michael Tomlinson,uk.org.publicwhip/person/25422,Mid Dorset and North Poole,Conservative,michael4mdnp,michael4mdnp,michael4mdnp,Leave,56.71
+364,mp,George Freeman,uk.org.publicwhip/person/24817,Mid Norfolk,Conservative,freeman_george,freeman_george,freeman_george,Remain,64.09
+365,mp,Nicholas Soames,uk.org.publicwhip/person/10555,Mid Sussex,Conservative,nsoamesmp,nsoamesmp,nsoamesmp,Remain,48.27
+366,mp,Francie Molloy,uk.org.publicwhip/person/13836,Mid Ulster,Sinn Fein,franciemolloy,,franciemolloy,Remain,39.61
+367,mp,Nigel Huddleston,uk.org.publicwhip/person/25381,Mid Worcestershire,Conservative,huddlestonnigel,huddlestonnigel,huddlestonnigel,Remain,59.32
+368,mp,Andy McDonald,uk.org.publicwhip/person/25169,Middlesbrough,Labour,andymcdonaldmp,andymcdonaldmp,andymcdonaldmp,Remain,57.72
+369,mp,Tom Blenkinsop,uk.org.publicwhip/person/24848,Middlesbrough South and East Cleveland,Labour,tomblenkinsop,tomblenkinsop,tomblenkinsop,Remain,61.17
+370,mp,Owen Thompson,uk.org.publicwhip/person/25278,Midlothian,Scottish National Party,owenthompson,owen_thompson,"owenthompson,owen_thompson",Remain,#N/A
+371,mp,Mark Lancaster,uk.org.publicwhip/person/11715,Milton Keynes North,Conservative,marklancastermk,marklancastermp,"marklancastermk,marklancastermp",Remain,51.03
+372,mp,Iain Stewart,uk.org.publicwhip/person/24947,Milton Keynes South,Conservative,iainastewart,iainastewart,iainastewart,Leave,54.41
+373,mp,Siobhain McDonagh,uk.org.publicwhip/person/10381,Mitcham and Morden,Labour,siobhain_mp,siobhain4mandm,"siobhain_mp,siobhain4mandm",Remain,50.85
+374,mp,Paul Beresford,uk.org.publicwhip/person/10041,Mole Valley,Conservative,,paulberesfordmp,paulberesfordmp,Remain,45.17
+375,mp,David Davies,uk.org.publicwhip/person/11719,Monmouth,Conservative,davidtcdavies,davidtcdavies,davidtcdavies,Leave,45
+376,mp,Glyn Davies,uk.org.publicwhip/person/24739,Montgomeryshire,Conservative,glyndaviesmp,glyndaviesmont,"glyndaviesmp,glyndaviesmont",Leave,54.83
+377,mp,Angus Robertson,uk.org.publicwhip/person/11189,Moray,Scottish National Party,angusrobertson,moraymp,"angusrobertson,moraymp",Remain,50
+378,mp,David Morris,uk.org.publicwhip/person/24966,Morecambe and Lunesdale,Conservative,davidmpmorris,mpdavidmorris,"davidmpmorris,mpdavidmorris",Remain,56.46
+379,mp,Andrea Jenkyns,uk.org.publicwhip/person/25431,Morley and Outwood,Conservative,andreajenkyns,andreajenkyns,andreajenkyns,Leave,62.72
+380,mp,Marion Fellows,uk.org.publicwhip/person/25277,Motherwell and Wishaw,Scottish National Party,,marion53f,marion53f,Remain,#N/A
+381,mp,Angus MacNeil,uk.org.publicwhip/person/12004,Na h-Eileanan an Iar,Scottish National Party,angusmacneilsnp,angusmacneilmp,"angusmacneilsnp,angusmacneilmp",Remain,45
+382,mp,Christina Rees,uk.org.publicwhip/person/25332,Neath,Labour,rees4neath,rees4neath,rees4neath,Remain,58.12
+383,mp,Julian Lewis,uk.org.publicwhip/person/10358,New Forest East,Conservative,,,,Leave,59.82
+384,mp,Desmond Swayne,uk.org.publicwhip/person/10580,New Forest West,Conservative,desmondswayne,desmondswayne,desmondswayne,Leave,56.44
+385,mp,Robert Jenrick,uk.org.publicwhip/person/25227,Newark,Conservative,robertjenrick,robertjenrick,robertjenrick,Remain,55.49
+386,mp,Richard Benyon,uk.org.publicwhip/person/11727,Newbury,Conservative,richardbenyonmp,richardbenyonmp,richardbenyonmp,Remain,52.05
+387,mp,Chi Onwurah,uk.org.publicwhip/person/24807,Newcastle upon Tyne Central,Labour,chionwurah,chionwurah,chionwurah,Remain,48.3
+388,mp,Nicholas Brown,uk.org.publicwhip/person/10069,Newcastle upon Tyne East,Labour,,,,Remain,41.27
+389,mp,Catherine McKinnell,uk.org.publicwhip/person/24818,Newcastle upon Tyne North,Labour,catmckinnellmp,catmckinnellmp,catmckinnellmp,Remain,56.34
+390,mp,Paul Farrelly,uk.org.publicwhip/person/10882,Newcastle-under-Lyme,Labour,,,,Remain,61.37
+391,mp,Jessica Morden,uk.org.publicwhip/person/11732,Newport East,Labour,jessicamordenmp,jessicamordenmp,jessicamordenmp,Remain,56.27
+392,mp,Paul Flynn,uk.org.publicwhip/person/10203,Newport West,Labour,paulflynnmp,paulflynnmp,paulflynnmp,Remain,49.96
+393,mp,Mickey Brady,uk.org.publicwhip/person/13893,Newry and Armagh,Sinn Fein,mickeybradysf,,mickeybradysf,Remain,37.06
+394,mp,Anne Marie Morris,uk.org.publicwhip/person/24912,Newton Abbot,Conservative,ammorrismp,ammorrismp,ammorrismp,Leave,56.02
+395,mp,Yvette Cooper,uk.org.publicwhip/person/10131,"Normanton, Pontefract and Castleford",Labour,yvettecoopermp,,yvettecoopermp,Remain,71.04
+396,mp,Ian Paisley,uk.org.publicwhip/person/13852,North Antrim,Democratic Unionist Party,ianpaisleymp,,ianpaisleymp,Leave,62.22
+397,mp,Patricia Gibson,uk.org.publicwhip/person/25300,North Ayrshire and Arran,Scottish National Party,pgibsonsnp,,pgibsonsnp,Remain,#N/A
+398,mp,Scott Mann,uk.org.publicwhip/person/25383,North Cornwall,Conservative,scottmannmp,cllrscottmann,"scottmannmp,cllrscottmann",Leave,59.39
+399,mp,Peter Heaton-Jones,uk.org.publicwhip/person/25412,North Devon,Conservative,peternorthdevon,peternorthdevon,peternorthdevon,Remain,58.85
+400,mp,Simon Hoare,uk.org.publicwhip/person/25427,North Dorset,Conservative,simon4ndorset,simon4ndorset,simon4ndorset,Remain,55.48
+401,mp,Lady Sylvia Hermon,uk.org.publicwhip/person/10958,North Down,Independent,,,,Remain,47.64
+402,mp,Kevan Jones,uk.org.publicwhip/person/11003,North Durham,Labour,kevanjonesmp,kevanjonesmp,kevanjonesmp,Remain,63.48
+403,mp,Alistair Burt,uk.org.publicwhip/person/10770,North East Bedfordshire,Conservative,alistairburtmp,alistairburtmp,alistairburtmp,Remain,53.39
+404,mp,Stephen Barclay,uk.org.publicwhip/person/24916,North East Cambridgeshire,Conservative,stevebarclaymp,stevebarclaymp,stevebarclaymp,Leave,70.03
+405,mp,Natascha Engel,uk.org.publicwhip/person/11534,North East Derbyshire,Labour,,nengel4ned,nengel4ned,Unknown,62.28
+406,mp,Stephen Gethins,uk.org.publicwhip/person/25324,North East Fife,Scottish National Party,stephengethins,stephengethins,stephengethins,Remain,#N/A
+407,mp,Ranil Jayawardena,uk.org.publicwhip/person/25419,North East Hampshire,Conservative,tellranil,tellranil,tellranil,Leave,45.24
+408,mp,Oliver Heald,uk.org.publicwhip/person/10267,North East Hertfordshire,Conservative,oliverhealdmp,oliverhealdmp,oliverhealdmp,Remain,52.63
+409,mp,Jacob Rees-Mogg,uk.org.publicwhip/person/24926,North East Somerset,Conservative,,,jacobreesmogg,Leave,54.23
+410,mp,Bill Wiggin,uk.org.publicwhip/person/11318,North Herefordshire,Conservative,,billwigginmp,billwigginmp,Leave,53.97
+411,mp,Norman Lamb,uk.org.publicwhip/person/11032,North Norfolk,Liberal Democrat,normanlamb,normanlamb,normanlamb,Remain,60.85
+412,mp,Owen Paterson,uk.org.publicwhip/person/10473,North Shropshire,Conservative,owen_patersonmp,owen_patersonmp,owen_patersonmp,Leave,60.46
+413,mp,Liam Fox,uk.org.publicwhip/person/10213,North Somerset,Conservative,liamfoxmp,liamfoxmp,liamfoxmp,Leave,49.25
+414,mp,Justin Tomlinson,uk.org.publicwhip/person/24870,North Swindon,Conservative,jtomlinsonmp,jtomlinsonmp,jtomlinsonmp,Leave,61.89
+415,mp,Roger Gale,uk.org.publicwhip/person/10217,North Thanet,Conservative,,,,Remain,62.98
+416,mp,Mary Glindon,uk.org.publicwhip/person/24927,North Tyneside,Labour,,,,Remain,62.16
+417,mp,Craig Tracey,uk.org.publicwhip/person/25290,North Warwickshire,Conservative,craig4nwarks,craig4nwarks,craig4nwarks,Leave,69
+418,mp,Shailesh Vara,uk.org.publicwhip/person/11475,North West Cambridgeshire,Conservative,,,,Remain,56.87
+419,mp,Pat Glass,uk.org.publicwhip/person/24917,North West Durham,Labour,patglassmp,patglassmp,patglassmp,Remain,58.68
+420,mp,Kit Malthouse,uk.org.publicwhip/person/25346,North West Hampshire,Conservative,kitmalthouse,kitmalthouse,kitmalthouse,Leave,56.62
+421,mp,Andrew Bridgen,uk.org.publicwhip/person/24741,North West Leicestershire,Conservative,andrewbridgenmp,andrewbridgenmp,andrewbridgenmp,Leave,61.52
+422,mp,Henry Bellingham,uk.org.publicwhip/person/10726,North West Norfolk,Conservative,,,,Leave,64.5
+423,mp,James Gray,uk.org.publicwhip/person/10240,North Wiltshire,Conservative,jamesgraymp,jamesgraymp,jamesgraymp,Leave,50.92
+424,mp,Michael Ellis,uk.org.publicwhip/person/24866,Northampton North,Conservative,michael_ellis1,michael_ellis1,michael_ellis1,Remain,58.13
+425,mp,David Mackintosh,uk.org.publicwhip/person/25347,Northampton South,Conservative,davidmackintosh,davidmackintosh,davidmackintosh,Remain,57.29
+426,mp,Chloe Smith,uk.org.publicwhip/person/24691,Norwich North,Conservative,norwichchloe,norwichchloe,norwichchloe,Remain,61.99
+427,mp,Clive Lewis,uk.org.publicwhip/person/25356,Norwich South,Labour,labourlewis,labourlewis,labourlewis,Remain,42.25
+428,mp,Chris Leslie,uk.org.publicwhip/person/10354,Nottingham East,Labour,chrislesliemp,chrislesliemp,chrislesliemp,Remain,43.34
+429,mp,Graham Allen,uk.org.publicwhip/person/10008,Nottingham North,Labour,grahamallenmp,grahamallenmp,grahamallenmp,Remain,64.92
+430,mp,Lilian Greenwood,uk.org.publicwhip/person/24774,Nottingham South,Labour,liliangreenwood,liliangreenwood,liliangreenwood,Remain,44.17
+431,mp,Marcus Jones,uk.org.publicwhip/person/24745,Nuneaton,Conservative,marcus4nuneaton,marcus4nuneaton,marcus4nuneaton,Remain,65.76
+432,mp,Tasmina Ahmed-Sheikh,uk.org.publicwhip/person/25274,Ochil and South Perthshire,Scottish National Party,tasminasheikh,tasminasheikh,tasminasheikh,Remain,#N/A
+433,mp,Chris Elmore,uk.org.publicwhip/person/25490,Ogmore,Labour,cpjelmore,,cpjelmore,Remain,61.29
+652,mp,Huw Irranca-Davies,uk.org.publicwhip/person/11347,Ogmore,Labour,huw4ogmore,irrancadaviesmp,"huw4ogmore,irrancadaviesmp",Remain,61.29
+434,mp,James Brokenshire,uk.org.publicwhip/person/11640,Old Bexley and Sidcup,Conservative,jbrokenshire,jbrokenshire,jbrokenshire,Remain,64.27
+435,mp,Debbie Abrahams,uk.org.publicwhip/person/25034,Oldham East and Saddleworth,Labour,debbie_abrahams,debbie_abrahams,debbie_abrahams,Remain,56.93
+436,mp,Jim McMahon,uk.org.publicwhip/person/25475,Oldham West and Royton,Labour,jimfromoldham,,jimfromoldham,Remain,62.32
+653,mp,Michael Meacher,uk.org.publicwhip/person/10427,Oldham West and Royton,Labour,,michaelmeacher,michaelmeacher,Unknown,62.32
+437,mp,Alistair Carmichael,uk.org.publicwhip/person/10785,Orkney and Shetland,Liberal Democrat,acarmichaelmp,acarmichaelmp,acarmichaelmp,Remain,40
+438,mp,Joseph Johnson,uk.org.publicwhip/person/24895,Orpington,Conservative,jojohnsonmp,jojohnsonmp,jojohnsonmp,Remain,58.19
+439,mp,Andrew Smith,uk.org.publicwhip/person/10545,Oxford East,Labour,andrewsmithmp,andrewsmithmp,andrewsmithmp,Remain,35.67
+440,mp,Nicola Blackwood,uk.org.publicwhip/person/24842,Oxford West and Abingdon,Conservative,nicolablackwood,nicolablackwood,nicolablackwood,Remain,39.03
+441,mp,Gavin Newlands,uk.org.publicwhip/person/25291,Paisley and Renfrewshire North,Scottish National Party,gavinnewlandsmp,gavnewlandssnp,"gavinnewlandsmp,gavnewlandssnp",Remain,#N/A
+442,mp,Mhairi Black,uk.org.publicwhip/person/25269,Paisley and Renfrewshire South,Scottish National Party,mhairiblack,mhairi1921,"mhairiblack,mhairi1921",Remain,#N/A
+443,mp,Andrew Stephenson,uk.org.publicwhip/person/24759,Pendle,Conservative,andrew4pendle,andrew4pendle,andrew4pendle,Leave,58.11
+444,mp,Angela Smith,uk.org.publicwhip/person/11814,Penistone and Stocksbridge,Labour,angelasmithmp,angelasmithmp,angelasmithmp,Remain,61.26
+445,mp,Rory Stewart,uk.org.publicwhip/person/24964,Penrith and The Border,Conservative,rorystewartuk,rorystewartuk,rorystewartuk,Remain,55.38
+446,mp,Pete Wishart,uk.org.publicwhip/person/11333,Perth and North Perthshire,Scottish National Party,petewishart,petewishart,petewishart,Remain,#N/A
+447,mp,Stewart Jackson,uk.org.publicwhip/person/11759,Peterborough,Conservative,stewart4pboro,stewart4pboro,stewart4pboro,Leave,63.37
+448,mp,Johnny Mercer,uk.org.publicwhip/person/25367,"Plymouth, Moor View",Conservative,johnnymercermp,,johnnymercermp,Remain,65.46
+449,mp,Oliver Colvile,uk.org.publicwhip/person/24898,"Plymouth, Sutton and Devonport",Conservative,olivercolvile,,olivercolvile,Remain,46.75
+450,mp,Owen Smith,uk.org.publicwhip/person/24797,Pontypridd,Labour,owensmith_mp,owensmithmp,"owensmith_mp,owensmithmp",Remain,50.3
+451,mp,Robert Syms,uk.org.publicwhip/person/10582,Poole,Conservative,robertsymsmp,robertsymsmp,robertsymsmp,Leave,56.68
+452,mp,Jim Fitzpatrick,uk.org.publicwhip/person/10199,Poplar and Limehouse,Labour,fitzmp,fitzmp,fitzmp,Remain,34.07
+453,mp,Penny Mordaunt,uk.org.publicwhip/person/24938,Portsmouth North,Conservative,pennymordauntmp,pennymordauntmp,pennymordauntmp,Leave,61.34
+454,mp,Mrs Flick Drummond,uk.org.publicwhip/person/25392,Portsmouth South,Conservative,flickd,flickd,flickd,Remain,44.92
+455,mp,Stephen Crabb,uk.org.publicwhip/person/11768,Preseli Pembrokeshire,Conservative,scrabbmp,scrabb2015,"scrabbmp,scrabb2015",Remain,51.21
+456,mp,Mark Hendrick,uk.org.publicwhip/person/10682,Preston,Labour,mphendrick,mphendrick,mphendrick,Remain,53.67
+457,mp,Stuart Andrew,uk.org.publicwhip/person/24864,Pudsey,Conservative,stuartandrew,stuartandrew,stuartandrew,Leave,50.97
+458,mp,Justine Greening,uk.org.publicwhip/person/11771,Putney,Conservative,justinegreening,justinegreening,justinegreening,Remain,24.9
+459,mp,Mark Francois,uk.org.publicwhip/person/10901,Rayleigh and Wickford,Conservative,,,,Leave,66.35
+460,mp,Rob Wilson,uk.org.publicwhip/person/11773,Reading East,Conservative,robwilson_rdg,robwilson_rdg,robwilson_rdg,Remain,38.34
+461,mp,Alok Sharma,uk.org.publicwhip/person/24902,Reading West,Conservative,aloksharma_rdg,aloksharma_rdg,aloksharma_rdg,Remain,53.8
+462,mp,Anna Turley,uk.org.publicwhip/person/25313,Redcar,Labour,annaturley,annaturley,annaturley,Remain,66.27
+463,mp,Karen Lumley,uk.org.publicwhip/person/24856,Redditch,Conservative,tell_karen,tell_karen,tell_karen,Leave,63.62
+464,mp,Crispin Blunt,uk.org.publicwhip/person/10051,Reigate,Conservative,crispinbluntmp,crispinbluntmp,crispinbluntmp,Leave,46.24
+465,mp,Chris Bryant,uk.org.publicwhip/person/10761,Rhondda,Labour,rhonddabryant,chrisbryantmp,"rhonddabryant,chrisbryantmp",Remain,64.34
+466,mp,Nigel Evans,uk.org.publicwhip/person/10190,Ribble Valley,Conservative,,electnigel,electnigel,Leave,52.04
+467,mp,Rishi Sunak,uk.org.publicwhip/person/25428,Richmond (Yorks),Conservative,,,,Leave,53.37
+468,mp,Zac Goldsmith,uk.org.publicwhip/person/24911,Richmond Park,Conservative,zacgoldsmith,zacgoldsmith,zacgoldsmith,Leave,23.39
+469,mp,Simon Danczuk,uk.org.publicwhip/person/24808,Rochdale,Independent,simondanczuk,,simondanczuk,Remain,57.02
+470,mp,Kelly Tolhurst,uk.org.publicwhip/person/25430,Rochester and Strood,Conservative,kellytolhurst,kellytolhurst,kellytolhurst,Remain,61.95
+471,mp,James Duddridge,uk.org.publicwhip/person/11785,Rochford and Southend East,Conservative,jamesduddridge,jamesduddridge,jamesduddridge,Leave,61.59
+472,mp,Andrew Rosindell,uk.org.publicwhip/person/11199,Romford,Conservative,andrewrosindell,andrewrosindell,andrewrosindell,Leave,65.55
+473,mp,Caroline Nokes,uk.org.publicwhip/person/24809,Romsey and Southampton North,Conservative,carolinenokes,carolinenokes,carolinenokes,Remain,46.32
+474,mp,Ian Blackford,uk.org.publicwhip/person/25361,"Ross, Skye and Lochaber",Scottish National Party,iblackfordsnpmp,,iblackfordsnpmp,Remain,#N/A
+475,mp,Jake Berry,uk.org.publicwhip/person/24860,Rossendale and Darwen,Conservative,jakeberry,jakeberry,jakeberry,Remain,55.11
+476,mp,Kevin Barron,uk.org.publicwhip/person/10027,Rother Valley,Labour,kevinbarronmp,kevinbarronmp,kevinbarronmp,Remain,64.64
+477,mp,Sarah Champion,uk.org.publicwhip/person/25168,Rotherham,Labour,sarahchampionmp,sarahchampionmp,sarahchampionmp,Remain,66.26
+478,mp,Mark Pawsey,uk.org.publicwhip/person/24880,Rugby,Conservative,markpawsey,markpawsey,markpawsey,Remain,60.3
+479,mp,Nick Hurd,uk.org.publicwhip/person/11792,"Ruislip, Northwood and Pinner",Conservative,nickhurdmp,,nickhurdmp,Remain,45.91
+480,mp,Philip Hammond,uk.org.publicwhip/person/10257,Runnymede and Weybridge,Conservative,phammondmp,phammondmp,phammondmp,Remain,47.69
+481,mp,Kenneth Clarke,uk.org.publicwhip/person/10115,Rushcliffe,Conservative,,,,Remain,43.12
+482,mp,Margaret Ferrier,uk.org.publicwhip/person/25287,Rutherglen and Hamilton West,Scottish National Party,margaretferrier,mgtferriersnp,"margaretferrier,mgtferriersnp",Remain,#N/A
+483,mp,Alan Duncan,uk.org.publicwhip/person/10179,Rutland and Melton,Conservative,alanduncanmp,alanduncanmp,alanduncanmp,Remain,55.12
+484,mp,Alan Haselhurst,uk.org.publicwhip/person/10263,Saffron Walden,Conservative,,,,Remain,52.45
+485,mp,Rebecca Long Bailey,uk.org.publicwhip/person/25368,Salford and Eccles,Labour,rlong_bailey,rlong_bailey,rlong_bailey,Remain,51.34
+486,mp,John Glen,uk.org.publicwhip/person/24839,Salisbury,Conservative,johnglenmp,johnglenmp,johnglenmp,Remain,50.45
+487,mp,Robert Goodwill,uk.org.publicwhip/person/11804,Scarborough and Whitby,Conservative,,,,Remain,60.47
+488,mp,Nic Dakin,uk.org.publicwhip/person/24798,Scunthorpe,Labour,nicdakinmp,nicdakinmp,nicdakinmp,Remain,66.9
+489,mp,Phil Wilson,uk.org.publicwhip/person/13933,Sedgefield,Labour,philwilsonmp,philwilsonmp,philwilsonmp,Remain,62.35
+490,mp,Bill Esterson,uk.org.publicwhip/person/24905,Sefton Central,Labour,bill_esterson,billestersonmp,"bill_esterson,billestersonmp",Remain,52.04
+491,mp,Nigel Adams,uk.org.publicwhip/person/24878,Selby and Ainsty,Conservative,,,,Leave,57.78
+492,mp,Michael Fallon,uk.org.publicwhip/person/10194,Sevenoaks,Conservative,,,,Remain,51.99
+494,mp,Paul Blomfield,uk.org.publicwhip/person/24943,Sheffield Central,Labour,paulblomfieldmp,paulblomfieldmp,paulblomfieldmp,Remain,30.19
+497,mp,Clive Betts,uk.org.publicwhip/person/10045,Sheffield South East,Labour,,clivebettsmp,clivebettsmp,Remain,66.87
+493,mp,Gill Furniss,uk.org.publicwhip/person/25489,"Sheffield, Brightside and Hillsborough",Labour,gillfurnissmp,,gillfurnissmp,Remain,60.86
+651,mp,Harry Harpham,uk.org.publicwhip/person/25369,"Sheffield, Brightside and Hillsborough",Labour,,harry4bh,harry4bh,Unknown,60.86
+495,mp,Nick Clegg,uk.org.publicwhip/person/11812,"Sheffield, Hallam",Liberal Democrat,nick_clegg,,nick_clegg,Remain,34.67
+496,mp,Louise Haigh,uk.org.publicwhip/person/25357,"Sheffield, Heeley",Labour,louhaigh,,louhaigh,Remain,57.72
+498,mp,Mark Spencer,uk.org.publicwhip/person/24909,Sherwood,Conservative,mark_spencer,mark_spencer,mark_spencer,Remain,63.98
+499,mp,Philip Davies,uk.org.publicwhip/person/11816,Shipley,Conservative,philipdaviesmp,philipdaviesmp,philipdaviesmp,Leave,51.08
+500,mp,Daniel Kawczynski,uk.org.publicwhip/person/11817,Shrewsbury and Atcham,Conservative,kawczynskimp,daniel4shrews,"kawczynskimp,daniel4shrews",Leave,53.73
+501,mp,Gordon Henderson,uk.org.publicwhip/person/24828,Sittingbourne and Sheppey,Conservative,,,,Leave,67.81
+502,mp,Julian Smith,uk.org.publicwhip/person/24961,Skipton and Ripon,Conservative,juliansmithmp,juliansmithmp,juliansmithmp,Remain,52.64
+503,mp,Stephen Phillips,uk.org.publicwhip/person/24836,Sleaford and North Hykeham,Conservative,,,,Leave,58.32
+504,mp,Fiona Mactaggart,uk.org.publicwhip/person/10402,Slough,Labour,fionamacmp,fionamacmp,fionamacmp,Remain,51.81
+505,mp,Julian Knight,uk.org.publicwhip/person/25388,Solihull,Conservative,julianknight15,julianknight15,julianknight15,Remain,56.66
+506,mp,David Warburton,uk.org.publicwhip/person/25372,Somerton and Frome,Conservative,djwarburton,djwarburton,djwarburton,Leave,53.53
+507,mp,Danny Kinahan,uk.org.publicwhip/person/24684,South Antrim,Ulster Unionist Party,ddebk,,ddebk,Remain,50.64
+508,mp,Stephen Metcalfe,uk.org.publicwhip/person/24749,South Basildon and East Thurrock,Conservative,metcalfe_sbet,metcalfe_sbet,metcalfe_sbet,Leave,67.46
+509,mp,Heidi Allen,uk.org.publicwhip/person/25348,South Cambridgeshire,Conservative,heidiallen75,heidiallen75,heidiallen75,Remain,42.06
+510,mp,Heather Wheeler,uk.org.publicwhip/person/24769,South Derbyshire,Conservative,heatherwheeler,heatherwheeler,heatherwheeler,Leave,59.08
+511,mp,Richard Drax,uk.org.publicwhip/person/24903,South Dorset,Conservative,,richarddrax_mp,richarddrax_mp,Leave,57.87
+512,mp,Margaret Ritchie,uk.org.publicwhip/person/13856,South Down,Social Democratic and Labour Party,mritchiemp,,mritchiemp,Remain,32.76
+513,mp,Lucy Frazer,uk.org.publicwhip/person/25399,South East Cambridgeshire,Conservative,,,lucyfrazermp,Remain,50.08
+514,mp,Mrs Sheryll Murray,uk.org.publicwhip/person/24875,South East Cornwall,Conservative,sheryllmurray,sheryllmurray,sheryllmurray,Leave,55.73
+515,mp,John Hayes,uk.org.publicwhip/person/10265,South Holland and The Deepings,Conservative,,,,Leave,71.07
+516,mp,Alberto Costa,uk.org.publicwhip/person/25413,South Leicestershire,Conservative,albertocostamp,,albertocostamp,Remain,59.6
+517,mp,Richard Bacon,uk.org.publicwhip/person/10707,South Norfolk,Conservative,,richardbaconmp,richardbaconmp,Leave,56.55
+518,mp,Andrea Leadsom,uk.org.publicwhip/person/24829,South Northamptonshire,Conservative,andrealeadsom,andrealeadsom,andrealeadsom,Leave,51.75
+519,mp,Seema Kennedy,uk.org.publicwhip/person/25389,South Ribble,Conservative,seemakennedy,seemakennedy,seemakennedy,Remain,54.2
+520,mp,Mrs Emma Lewell-Buck,uk.org.publicwhip/person/25181,South Shields,Labour,emmalewellbuck,emmalewellbuck,emmalewellbuck,Remain,62.92
+521,mp,Gavin Williamson,uk.org.publicwhip/person/24729,South Staffordshire,Conservative,gwilliamsonmp,gwilliamsonmp,gwilliamsonmp,Remain,62.35
+522,mp,James Cartlidge,uk.org.publicwhip/person/25414,South Suffolk,Conservative,jc4southsuffolk,jc4southsuffolk,jc4southsuffolk,Remain,58.14
+523,mp,Robert Buckland,uk.org.publicwhip/person/24843,South Swindon,Conservative,robertbuckland,robertbuckland,robertbuckland,Remain,56.94
+524,mp,Craig Mackinlay,uk.org.publicwhip/person/25437,South Thanet,Conservative,cmackinlay,cmackinlay,cmackinlay,Leave,59.64
+525,mp,Andrew Selous,uk.org.publicwhip/person/11216,South West Bedfordshire,Conservative,andrewselous,andrew_selousmp,"andrewselous,andrew_selousmp",Remain,57.6
+526,mp,Gary Streeter,uk.org.publicwhip/person/10575,South West Devon,Conservative,,gary4swdevon,gary4swdevon,Remain,54.28
+527,mp,David Gauke,uk.org.publicwhip/person/11633,South West Hertfordshire,Conservative,davidgauke,davidgauke,davidgauke,Remain,43.83
+528,mp,Elizabeth Truss,uk.org.publicwhip/person/24941,South West Norfolk,Conservative,trussliz,trussliz,trussliz,Remain,67.62
+529,mp,Jeremy Hunt,uk.org.publicwhip/person/11859,South West Surrey,Conservative,jeremy_hunt,jeremy_hunt,jeremy_hunt,Remain,41.64
+530,mp,Andrew Murrison,uk.org.publicwhip/person/11132,South West Wiltshire,Conservative,murrisonmp,murrisonmp,murrisonmp,Leave,57.21
+531,mp,Royston Smith,uk.org.publicwhip/person/25345,"Southampton, Itchen",Conservative,royston_smith,,royston_smith,Leave,57.29
+532,mp,Alan Whitehead,uk.org.publicwhip/person/10630,"Southampton, Test",Labour,alanwhiteheadmp,,alanwhiteheadmp,Remain,48.18
+26,mp,David Amess,uk.org.publicwhip/person/10009,Southend West,Conservative,,,,Leave,58.78
+533,mp,John Pugh,uk.org.publicwhip/person/11174,Southport,Liberal Democrat,johnpughmp,johnpughmp,johnpughmp,Remain,52.07
+534,mp,Kwasi Kwarteng,uk.org.publicwhip/person/24770,Spelthorne,Conservative,,kwasikwarteng,kwasikwarteng,Leave,58.73
+535,mp,Anne Main,uk.org.publicwhip/person/11798,St Albans,Conservative,,,,Leave,35.66
+536,mp,Steve Double,uk.org.publicwhip/person/25410,St Austell and Newquay,Conservative,stevedouble,stevedouble,stevedouble,Leave,63.31
+537,mp,Conor McGinn,uk.org.publicwhip/person/25423,St Helens North,Labour,conormcginn,conormcginn,conormcginn,Remain,59.36
+538,mp,Marie Rimmer,uk.org.publicwhip/person/25321,St Helens South and Whiston,Labour,marierimmermp,marieerimmer,"marierimmermp,marieerimmer",Remain,58.71
+539,mp,Derek Thomas,uk.org.publicwhip/person/25440,St Ives,Conservative,derekthomasmp,,derekthomasmp,Leave,53.75
+540,mp,Jeremy Lefroy,uk.org.publicwhip/person/24760,Stafford,Conservative,jeremylefroymp,jeremylefroymp,jeremylefroymp,Remain,54.59
+541,mp,Karen Bradley,uk.org.publicwhip/person/24725,Staffordshire Moorlands,Conservative,,karen__bradley,karen__bradley,Remain,64.18
+542,mp,Jonathan Reynolds,uk.org.publicwhip/person/24929,Stalybridge and Hyde,Labour,jreynoldsmp,jreynoldsmp,jreynoldsmp,Remain,61.07
+543,mp,Stephen McPartland,uk.org.publicwhip/person/24888,Stevenage,Conservative,smcpartlandmp,smcpartlandmp,smcpartlandmp,Leave,57.49
+544,mp,Steven Paterson,uk.org.publicwhip/person/25296,Stirling,Scottish National Party,steven4stirling,steven4stirling,steven4stirling,Remain,#N/A
+545,mp,Ann Coffey,uk.org.publicwhip/person/10122,Stockport,Labour,anncoffey_mp,anncoffey_mp,anncoffey_mp,Remain,50.65
+546,mp,Alex Cunningham,uk.org.publicwhip/person/24742,Stockton North,Labour,acunninghammp,acunninghammp,acunninghammp,Remain,62.44
+547,mp,James Wharton,uk.org.publicwhip/person/24930,Stockton South,Conservative,jameswhartonuk,jameswhartonuk,jameswhartonuk,Leave,54.39
+548,mp,Tristram Hunt,uk.org.publicwhip/person/24850,Stoke-on-Trent Central,Labour,tristramhuntmp,tristramhuntmp,tristramhuntmp,Remain,62.58
+549,mp,Ruth Smeeth,uk.org.publicwhip/person/25435,Stoke-on-Trent North,Labour,ruthsmeeth,ruthsmeeth,ruthsmeeth,Remain,71.29
+550,mp,Robert Flello,uk.org.publicwhip/person/11843,Stoke-on-Trent South,Labour,robflellomp,robflellomp,robflellomp,Remain,69.84
+551,mp,William Cash,uk.org.publicwhip/person/10095,Stone,Conservative,billcashmp,billcashmp,billcashmp,Remain,56.63
+552,mp,Margot James,uk.org.publicwhip/person/24876,Stourbridge,Conservative,margot_james_mp,margotjames2015,"margot_james_mp,margotjames2015",Remain,62.98
+553,mp,Jim Shannon,uk.org.publicwhip/person/13864,Strangford,Democratic Unionist Party,,,jimshannonmp,Leave,55.53
+554,mp,Nadhim Zahawi,uk.org.publicwhip/person/24822,Stratford-on-Avon,Conservative,nadhimzahawi,,nadhimzahawi,Leave,53.54
+555,mp,Chuka Umunna,uk.org.publicwhip/person/24950,Streatham,Labour,chukaumunna,chukaumunna,chukaumunna,Remain,28.57
+556,mp,Kate Green,uk.org.publicwhip/person/24896,Stretford and Urmston,Labour,kategreensu,kategreensu,kategreensu,Remain,52.94
+557,mp,Neil Carmichael,uk.org.publicwhip/person/24840,Stroud,Conservative,stroud_neil,stroud_neil,stroud_neil,Remain,48.63
+558,mp,Thérèse Coffey,uk.org.publicwhip/person/24771,Suffolk Coastal,Conservative,theresecoffey,theresecoffey,theresecoffey,Remain,56.52
+559,mp,Julie Elliott,uk.org.publicwhip/person/24710,Sunderland Central,Labour,julieelliottmp,julieelliottmp,julieelliottmp,Remain,57.24
+560,mp,Michael Gove,uk.org.publicwhip/person/11858,Surrey Heath,Conservative,,sirmichaelgove,sirmichaelgove,Leave,50.87
+562,mp,Paul Scully,uk.org.publicwhip/person/25331,Sutton and Cheam,Conservative,scullyp,scullyp,scullyp,Leave,50.75
+561,mp,Andrew Mitchell,uk.org.publicwhip/person/11115,Sutton Coldfield,Conservative,,,,Remain,50.31
+563,mp,Carolyn Harris,uk.org.publicwhip/person/25308,Swansea East,Labour,carolynharris24,carolynharris24,carolynharris24,Remain,58.96
+564,mp,Geraint Davies,uk.org.publicwhip/person/10159,Swansea West,Labour,geraintdaviesmp,geraintdaviesmp,geraintdaviesmp,Remain,41.33
+565,mp,Christopher Pincher,uk.org.publicwhip/person/24747,Tamworth,Conservative,chrispincher,chrispincher,chrispincher,Leave,66.46
+566,mp,George Osborne,uk.org.publicwhip/person/11145,Tatton,Conservative,george_osborne,george_osborne,george_osborne,Remain,46.3
+567,mp,Rebecca Pow,uk.org.publicwhip/person/25407,Taunton Deane,Conservative,pow_rebecca,pow_rebecca,pow_rebecca,Remain,52.51
+568,mp,Lucy Allan,uk.org.publicwhip/person/25337,Telford,Conservative,lucyallan,lucyallan,lucyallan,Leave,66.51
+569,mp,Laurence Robertson,uk.org.publicwhip/person/10505,Tewkesbury,Conservative,lrobertsonmp,,lrobertsonmp,Leave,52.38
+570,mp,Geoffrey Clifton-Brown,uk.org.publicwhip/person/10119,The Cotswolds,Conservative,,,,Leave,47.58
+571,mp,Mark Pritchard,uk.org.publicwhip/person/11946,The Wrekin,Conservative,mpritchardmp,mpritchardmp,mpritchardmp,Remain,59.63
+572,mp,Kevin Hollinrake,uk.org.publicwhip/person/25415,Thirsk and Malton,Conservative,kevinhollinrake,kevinhollinrake,kevinhollinrake,Remain,57.83
+573,mp,Luke Hall,uk.org.publicwhip/person/25373,Thornbury and Yate,Conservative,,,lukehallmp,Remain,55.97
+574,mp,Jackie Doyle-Price,uk.org.publicwhip/person/24957,Thurrock,Conservative,jackiedp,jackiedp,jackiedp,Remain,62
+575,mp,Neil Parish,uk.org.publicwhip/person/24779,Tiverton and Honiton,Conservative,,,neil_parish,Remain,58.13
+576,mp,Tom Tugendhat,uk.org.publicwhip/person/25374,Tonbridge and Malling,Conservative,tomtugendhat,tomtugendhat,tomtugendhat,Remain,53.73
+650,mp,Rosena Allin-Khan,uk.org.publicwhip/person/25579,Tooting,Labour,drrosena,,drrosena,Remain,22.75
+654,mp,Sadiq Khan,uk.org.publicwhip/person/11878,Tooting,Labour,sadiqkhan,,sadiqkhan,Remain,22.75
+577,mp,Kevin Foster,uk.org.publicwhip/person/25338,Torbay,Conservative,kevin_j_foster,,kevin_j_foster,Remain,59.85
+578,mp,Nick Thomas-Symonds,uk.org.publicwhip/person/25279,Torfaen,Labour,nicktorfaenmp,nthomassymonds,"nicktorfaenmp,nthomassymonds",Remain,58.33
+579,mp,Geoffrey Cox,uk.org.publicwhip/person/11541,Torridge and West Devon,Conservative,geoffrey_cox,geoffrey_cox,geoffrey_cox,Leave,56.92
+580,mp,Sarah Wollaston,uk.org.publicwhip/person/24761,Totnes,Conservative,sarahwollaston,sarahwollaston,sarahwollaston,Remain,52.44
+581,mp,David Lammy,uk.org.publicwhip/person/10678,Tottenham,Labour,davidlammy,davidlammy,davidlammy,Remain,45.02
+582,mp,Sarah Newton,uk.org.publicwhip/person/24948,Truro and Falmouth,Conservative,sarahnewtonmp,sarahnewtonmp,sarahnewtonmp,Remain,45.91
+583,mp,Greg Clark,uk.org.publicwhip/person/11884,Tunbridge Wells,Conservative,gregclarkmp,gregclarkmp,gregclarkmp,Remain,46.25
+584,mp,Tania Mathias,uk.org.publicwhip/person/25333,Twickenham,Conservative,tania_mathias,tania_mathias,tania_mathias,Remain,29.28
+585,mp,Alan Campbell,uk.org.publicwhip/person/10086,Tynemouth,Labour,alancampbellmp,alancampbellmp,alancampbellmp,Remain,51.7
+586,mp,David Simpson,uk.org.publicwhip/person/11892,Upper Bann,Democratic Unionist Party,davidsimpsondup,,davidsimpsondup,Leave,52.62
+587,mp,Boris Johnson,uk.org.publicwhip/person/10999,Uxbridge and South Ruislip,Conservative,borisjohnson,mayoroflondon,"borisjohnson,mayoroflondon",Leave,52.65
+588,mp,James Davies,uk.org.publicwhip/person/25292,Vale of Clwyd,Conservative,jamesdaviesmp,jamesdavies4mp,"jamesdaviesmp,jamesdavies4mp",Leave,54.63
+589,mp,Alun Cairns,uk.org.publicwhip/person/24740,Vale of Glamorgan,Conservative,aluncairns,aluncairns,aluncairns,Remain,51.02
+590,mp,Kate Hoey,uk.org.publicwhip/person/10282,Vauxhall,Labour,katehoeymp,katehoeymp,katehoeymp,Leave,25.57
+591,mp,Mary Creagh,uk.org.publicwhip/person/11898,Wakefield,Labour,marycreaghmp,mary4wakefield,"marycreaghmp,mary4wakefield",Remain,62.65
+592,mp,Angela Eagle,uk.org.publicwhip/person/10182,Wallasey,Labour,angelaeagle,angelaeagle,angelaeagle,Remain,58.03
+593,mp,David Winnick,uk.org.publicwhip/person/10645,Walsall North,Labour,,,,Remain,70.12
+594,mp,Valerie Vaz,uk.org.publicwhip/person/24852,Walsall South,Labour,valerie_vazmp,valerie_vazmp,valerie_vazmp,Remain,61.44
+595,mp,Stella Creasy,uk.org.publicwhip/person/24949,Walthamstow,Labour,stellacreasy,stellacreasy,stellacreasy,Remain,43.98
+596,mp,Ian Lavery,uk.org.publicwhip/person/24963,Wansbeck,Labour,ianlaverymp,ianlaverymp,ianlaverymp,Remain,59.43
+597,mp,Edward Vaizey,uk.org.publicwhip/person/11905,Wantage,Conservative,edvaizey,edvaizey,edvaizey,Remain,49.48
+598,mp,John Spellar,uk.org.publicwhip/person/10558,Warley,Labour,spellar,spellar,spellar,Unknown,60.93
+599,mp,Helen Jones,uk.org.publicwhip/person/10319,Warrington North,Labour,helenjonesmp,helenjonesmp,helenjonesmp,Remain,57.29
+600,mp,David Mowat,uk.org.publicwhip/person/24932,Warrington South,Conservative,mowat4ws,mowat4ws,mowat4ws,Remain,49.82
+601,mp,Chris White,uk.org.publicwhip/person/24959,Warwick and Leamington,Conservative,chriswhite_mp,chriswhite_mp,chriswhite_mp,Remain,44.36
+602,mp,Mrs Sharon Hodgson,uk.org.publicwhip/person/11592,Washington and Sunderland West,Labour,sharonhodgsonmp,sharonhodgsonmp,sharonhodgsonmp,Remain,65.91
+603,mp,Richard Harrington,uk.org.publicwhip/person/24954,Watford,Conservative,richard4watford,richard4watford,richard4watford,Remain,47.61
+604,mp,Peter Aldous,uk.org.publicwhip/person/24904,Waveney,Conservative,peter_aldous,peter_aldous,peter_aldous,Remain,66.37
+605,mp,Nusrat Ghani,uk.org.publicwhip/person/25354,Wealden,Conservative,nus_ghani,nus_ghani,nus_ghani,Leave,52.63
+606,mp,Graham Evans,uk.org.publicwhip/person/24883,Weaver Vale,Conservative,grahamevansmp,grahamevans,"grahamevansmp,grahamevans",Remain,54.13
+607,mp,Peter Bone,uk.org.publicwhip/person/11915,Wellingborough,Conservative,peterbonemp,peterbonemp,peterbonemp,Leave,64.19
+608,mp,James Heappey,uk.org.publicwhip/person/25438,Wells,Conservative,jsheappey,jsheappey,jsheappey,Remain,56.12
+609,mp,Grant Shapps,uk.org.publicwhip/person/11917,Welwyn Hatfield,Conservative,grantshapps,grantshapps,grantshapps,Remain,47.17
+610,mp,John Healey,uk.org.publicwhip/person/10268,Wentworth and Dearne,Labour,johnhealey_mp,johnhealey_mp,johnhealey_mp,Remain,68.48
+611,mp,Stuart Donaldson,uk.org.publicwhip/person/25425,West Aberdeenshire and Kincardine,Scottish National Party,stuiedonaldson,studonaldsonsnp,"stuiedonaldson,studonaldsonsnp",Remain,#N/A
+612,mp,Tom Watson,uk.org.publicwhip/person/11309,West Bromwich East,Labour,tom_watson,tom_watson,tom_watson,Remain,66.99
+613,mp,Adrian Bailey,uk.org.publicwhip/person/10683,West Bromwich West,Labour,adrianbailey4mp,adrian_bailey,"adrianbailey4mp,adrian_bailey",Remain,68.55
+614,mp,Oliver Letwin,uk.org.publicwhip/person/10355,West Dorset,Conservative,oliverletwinmp,oliverletwinmp,oliverletwinmp,Remain,51.45
+615,mp,Martin John Docherty,uk.org.publicwhip/person/25275,West Dunbartonshire,Scottish National Party,martinjdocherty,martinjdocherty,martinjdocherty,Remain,#N/A
+616,mp,Lyn Brown,uk.org.publicwhip/person/11921,West Ham,Labour,lynbrownmp,lynbrownmp,lynbrownmp,Remain,43.25
+617,mp,Rosie Cooper,uk.org.publicwhip/person/11667,West Lancashire,Labour,rosie4westlancs,rosie4westlancs,rosie4westlancs,Remain,53.27
+618,mp,Matthew Hancock,uk.org.publicwhip/person/24773,West Suffolk,Conservative,matthancockmp,matthancockmp,matthancockmp,Remain,65.27
+619,mp,Pat Doherty,uk.org.publicwhip/person/10858,West Tyrone,Sinn Fein,patdohertymp,,patdohertymp,Remain,33.15
+620,mp,Harriett Baldwin,uk.org.publicwhip/person/24785,West Worcestershire,Conservative,hbaldwinmp,harriettbaldwin,"hbaldwinmp,harriettbaldwin",Remain,52.44
+621,mp,Karen Buck,uk.org.publicwhip/person/10075,Westminster North,Labour,karenpbuckmp,karenpbuckmp,karenpbuckmp,Remain,30.03
+622,mp,Tim Farron,uk.org.publicwhip/person/11923,Westmorland and Lonsdale,Liberal Democrat,timfarron,timfarron,timfarron,Remain,48.1
+623,mp,John Penrose,uk.org.publicwhip/person/11924,Weston-super-Mare,Conservative,johnpenrosenews,,johnpenrosenews,Remain,58.42
+624,mp,Lisa Nandy,uk.org.publicwhip/person/24831,Wigan,Labour,lisanandy,lisanandy,lisanandy,Remain,59.84
+625,mp,Stephen Hammond,uk.org.publicwhip/person/11927,Wimbledon,Conservative,s_hammond,s_hammond,s_hammond,Remain,27.07
+626,mp,Steve Brine,uk.org.publicwhip/person/24901,Winchester,Conservative,sbrine,sbrine,sbrine,Remain,40.31
+627,mp,Adam Afriyie,uk.org.publicwhip/person/11929,Windsor,Conservative,adamafriyie,adamafriyie,adamafriyie,Leave,45.8
+628,mp,Alison McGovern,uk.org.publicwhip/person/24897,Wirral South,Labour,alison_mcgovern,alison_mcgovern,alison_mcgovern,Remain,51.85
+629,mp,Margaret Greenwood,uk.org.publicwhip/person/25349,Wirral West,Labour,mgreenwoodww,mgreenwoodww,mgreenwoodww,Remain,48.99
+630,mp,Priti Patel,uk.org.publicwhip/person/24778,Witham,Conservative,patel4witham,pritipatelmp,"patel4witham,pritipatelmp",Leave,60.31
+631,mp,David Cameron,uk.org.publicwhip/person/10777,Witney,Conservative,david_cameron,david_cameron,david_cameron,Remain,50.19
+632,mp,Jonathan Lord,uk.org.publicwhip/person/24884,Woking,Conservative,,,jonathanlordmp,Leave,43.94
+633,mp,John Redwood,uk.org.publicwhip/person/10499,Wokingham,Conservative,johnredwood,johnredwood,johnredwood,Leave,43.04
+634,mp,Emma Reynolds,uk.org.publicwhip/person/24868,Wolverhampton North East,Labour,emmareynoldsmp,emmareynoldsmp,emmareynoldsmp,Remain,65.01
+635,mp,Pat McFadden,uk.org.publicwhip/person/11936,Wolverhampton South East,Labour,patmcfaddenmp,patmcfaddenmp,patmcfaddenmp,Remain,66.66
+636,mp,Rob Marris,uk.org.publicwhip/person/11095,Wolverhampton South West,Labour,wsw_labour,wsw_labour,wsw_labour,Remain,50.83
+637,mp,Robin Walker,uk.org.publicwhip/person/24862,Worcester,Conservative,walkerworcester,robinwalkermp,"walkerworcester,robinwalkermp",Remain,52.65
+638,mp,Sue Hayman,uk.org.publicwhip/person/25358,Workington,Labour,suehayman1,suehayman1,suehayman1,Remain,62.67
+639,mp,Barbara Keeley,uk.org.publicwhip/person/11943,Worsley and Eccles South,Labour,keeleymp,keeleymp,keeleymp,Remain,59.18
+640,mp,Peter Bottomley,uk.org.publicwhip/person/10057,Worthing West,Conservative,,pbottomleymp,pbottomleymp,Remain,58.83
+641,mp,Ian C. Lucas,uk.org.publicwhip/person/11057,Wrexham,Labour,ianclucas,ianclucas,ianclucas,Remain,54.65
+642,mp,Steven Baker,uk.org.publicwhip/person/24786,Wycombe,Conservative,stevebakerhw,stevebakerhw,stevebakerhw,Leave,48.44
+644,mp,Ben Wallace,uk.org.publicwhip/person/11668,Wyre and Preston North,Conservative,bwallacemp,bwallacemp,bwallacemp,Remain,51.57
+643,mp,Mark Garnier,uk.org.publicwhip/person/24824,Wyre Forest,Conservative,mark4wyreforest,mark4wyreforest,mark4wyreforest,Remain,64.01
+645,mp,Mike Kane,uk.org.publicwhip/person/25220,Wythenshawe and Sale East,Labour,mikekanemp,mikekanemp,mikekanemp,Remain,53.47
+646,mp,Marcus Fysh,uk.org.publicwhip/person/25384,Yeovil,Conservative,marcusfysh,marcusfysh,marcusfysh,Leave,61.72
+647,mp,Albert Owen,uk.org.publicwhip/person/11148,Ynys Môn,Labour,albertowenmp,albertowenmp,albertowenmp,Remain,52.97
+648,mp,Rachael Maskell,uk.org.publicwhip/person/25433,York Central,Labour,rachaelmaskell,rachaelmaskell,rachaelmaskell,Remain,42.61
+649,mp,Julian Sturdy,uk.org.publicwhip/person/24853,York Outer,Conservative,,juliansturdy,juliansturdy,Leave,50.82
+1,mep,Afzal Khan,,North West,Labour,akhanmep,,akhanmep,Remain,
+2,mep,Alyn Smith,,Scotland,Scottish National Party,alynsmithmep,,alynsmithmep,Remain,
+3,mep,Amjad Bashir,,Yorkshire and the Humber,Conservative,amjadbashirmep,,amjadbashirmep,Leave,
+4,mep,Andrew Lewer,,East Midlands,Conservative,alewermep,,alewermep,Leave,
+5,mep,Anneliese Dodds,,South East,Labour,anneliesedodds,,anneliesedodds,Remain,
+6,mep,Anthea Mcintyre,,West Midlands,Conservative,anthea_mcintyre,,anthea_mcintyre,Remain,
+7,mep,Ashley Fox,,South West,Conservative,ashleyfoxmep,,ashleyfoxmep,Remain,
+8,mep,Bill Etheridge,,West Midlands,United Kingdom Independence Party,billdudleynorth,,billdudleynorth,Leave,
+9,mep,Catherine Bearder,,South East,Liberal Democrat,catherinemep,,catherinemep,Remain,
+10,mep,Catherine Stihler,,Scotland,Labour,c_stihler_mep,,c_stihler_mep,Remain,
+11,mep,Charles Tannock,,London,Conservative,charlestannock,,charlestannock,Remain,
+12,mep,Clare Moody,,South West,Labour,claremoodymep,,claremoodymep,Remain,
+13,mep,Claude Moraes,,London,Labour,claudemoraesmep,,claudemoraesmep,Remain,
+14,mep,Daniel Dalton,,West Midlands,Conservative,ddalton40,,ddalton40,Remain,
+15,mep,Daniel Hannan,,South East,Conservative,danieljhannan,,danieljhannan,Leave,
+16,mep,David Campbell Bannerman,,Eastern,Conservative,dcbmep,,dcbmep,Leave,
+17,mep,David Coburn,,Scotland,United Kingdom Independence Party,davidcoburnukip,,davidcoburnukip,Leave,
+18,mep,David Martin,,Scotland,Labour,davidmartinmep,,davidmartinmep,Remain,
+19,mep,Derek Vaughan,,Wales,Labour,derekvaughan,,derekvaughan,Remain,
+20,mep,Diane Dodds,,Northern Ireland,Democratic Unionist Party,dianedoddsmep,,dianedoddsmep,Leave,
+21,mep,Diane James,,South East,United Kingdom Independence Party,dianejamesmep,,dianejamesmep,Leave,
+22,mep,Emma Mcclarkin,,East Midlands,Conservative,emmamcclarkin,,emmamcclarkin,Leave,
+23,mep,Geoffrey Van Orden,,Eastern,Conservative,gvomep,,gvomep,Unknown,
+24,mep,Gerard Batten,,London,United Kingdom Independence Party,gerardbattenmep,,gerardbattenmep,Leave,
+25,mep,Glenis Willmott,,East Midlands,Labour,gleniswillmott,,gleniswillmott,Remain,
+26,mep,Ian Duncan,,Scotland,Conservative,ianduncanmep,,ianduncanmep,Remain,
+27,mep,Ian Hudghton,,Scotland,Scottish National Party,hudghtonmepsnp,,hudghtonmepsnp,Remain,
+28,mep,Jacqueline Foster,,North West,Conservative,jfostermep,,jfostermep,Unknown,
+29,mep,James Carver,,West Midlands,United Kingdom Independence Party,jamesjimcarver,,jamesjimcarver,Leave,
+30,mep,James Nicholson,,Northern Ireland,Ulster Unionist Party,jnicholsonmep,,jnicholsonmep,Unknown,
+31,mep,Jane Collins,,Yorkshire & North Lincs,United Kingdom Independence Party,jane_collinsmep,,jane_collinsmep,Leave,
+32,mep,Janice Atkinson,,South East,United Kingdom Independence Party,janice4brexit,,janice4brexit,Leave,
+33,mep,Jean Lambert,,London,Green Party,greenjeanmep,,greenjeanmep,Remain,
+34,mep,Jill Evans,,Wales,Plaid Cymru,jillevansmep,,jillevansmep,Remain,
+35,mep,Jill Seymour,,West Midlands,United Kingdom Independence Party,jseymourukip,,jseymourukip,Leave,
+36,mep,John Stuart Agnew,,Eastern,United Kingdom Independence Party,,,,Leave,
+37,mep,Jonathan Arnott,,North East,United Kingdom Independence Party,jonathanarnott,,jonathanarnott,Leave,
+38,mep,Jude Kirton-Darling,,North East,Labour,jude_kd,,jude_kd,Remain,
+39,mep,Julia Reid,,South West,United Kingdom Independence Party,julia_reid,,julia_reid,Leave,
+40,mep,Julie Girling,,South West,Conservative,juliegirling,,juliegirling,Remain,
+41,mep,Julie Ward,,North West,Labour,julie4nw,,julie4nw,Remain,
+42,mep,Kay Swinburne,,Wales,Conservative,kayswinburnemep,,kayswinburnemep,Remain,
+43,mep,Keith Taylor,,South East,Green Party,greenkeithmep,,greenkeithmep,Remain,
+44,mep,Linda Mcavan,,Yorkshire & the Humber,Labour,lindamcavanmep,,lindamcavanmep,Remain,
+45,mep,Louise Bours,,North West,United Kingdom Independence Party,,,,Leave,
+46,mep,Lucy Anderson,,London,Labour,lucyandersonmep,,lucyandersonmep,Remain,
+47,mep,Margot Parker,,East Midlands,United Kingdom Independence Party,margotljparker,,margotljparker,Leave,
+48,mep,Martina Anderson,,Northern Ireland,Sinn Fein,m_andersonsf,,m_andersonsf,Remain,
+49,mep,Mary Honeyball,,London,Labour,maryhoneyball,,maryhoneyball,Remain,
+50,mep,Mike Hookem,,Yorkshire & North Lincs,United Kingdom Independence Party,mikehookemmep,,mikehookemmep,Leave,
+51,mep,Molly Scott Cato,,South West & Gibraltar,Green Party,mollymep,,mollymep,Remain,
+52,mep,Nathan Gill,,Wales,United Kingdom Independence Party,nathangillmep,,nathangillmep,Leave,
+53,mep,Neena Gill,,West Midlands,Labour,neenagmep,,neenagmep,Remain,
+54,mep,Nigel Farage,,South East,United Kingdom Independence Party,nigel_farage,,nigel_farage,Leave,
+55,mep,Nirj Deva,,South East,Conservative,nirjdeva,,nirjdeva,Unknown,
+56,mep,Patrick O'Flynn,,Eastern,United Kingdom Independence Party,oflynnmep,,oflynnmep,Leave,
+57,mep,Paul Brannen,,North East,Labour,paulbrannenne,,paulbrannenne,Remain,
+58,mep,Paul Nuttall,,North West,United Kingdom Independence Party,paulnuttallukip,,paulnuttallukip,Leave,
+59,mep,Raymond Finch,,South East,United Kingdom Independence Party,raymondfinch,,raymondfinch,Leave,
+60,mep,Richard Ashworth,,South East,Conservative,richardashmep,,richardashmep,Remain,
+61,mep,Richard Corbett,,Yorkshire & the Humber,Labour,rcorbettmep,,rcorbettmep,Remain,
+62,mep,Richard Howitt,,East of England,Labour,richardhowitt,,richardhowitt,Remain,
+63,mep,Roger Helmer,,East Midlands,United Kingdom Independence Party,rogerhelmermep,,rogerhelmermep,Leave,
+64,mep,Sajjad Karim,,North West,Conservative,shkmep,,shkmep,Remain,
+65,mep,Seb Dance,,London,Labour,sebdance,,sebdance,Remain,
+66,mep,Siôn Simon,,West Midlands,Labour,sionsimon,,sionsimon,Remain,
+67,mep,Steven Woolfe,,North West,United Kingdom Independence Party,steven_woolfe,,steven_woolfe,Leave,
+68,mep,Syed Kamall,,London,Conservative,syedkamall,,syedkamall,Unknown,
+69,mep,Theresa Griffin,,North West,Labour,theresamep,,theresamep,Remain,
+70,mep,Tim Aker,,Eastern,United Kingdom Independence Party,tim_aker,,tim_aker,Leave,
+71,mep,Timothy Kirkhope,,Yorkshire & the Humber,Conservative,timkirkhopemep,,timkirkhopemep,Remain,
+72,mep,Vicky Ford,,Eastern,Conservative,vickyford,,vickyford,Remain,
+73,mep,William Dartmouth,,South West,United Kingdom Independence Party,,,,Leave,
